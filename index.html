@@ -567192,7 +567192,7 @@
         <td>1.017755e+02</td>
       </tr>
     </tbody>
-  </table>
+</table>
 
 
 <script type="text/javascript">
@@ -567204,42 +567204,42 @@
             //     { targets: [2, 3, 8, 9, 10, 12, 13, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 30, 31, 33, 36, 37, 38, 39, 40], visible: false }, // Hide the Country column by default (index 2)
             // ],
             columnDefs: [
-                { targets: [], visible: false }, 
+                { targets: [4], visible: false }, 
             ],
             // order: [[8, 'des']], // Initial sorting by Name column in ascending order
 
-            // buttons: [
-            //     'colvis',
-            //     {
-            //         extend: 'collection',
-            //         text: 'Filter',
-            //         buttons: [
-            //             {
-            //                 text: 'Interesting',
-            //                 action: function (e, dt, node, config) {
-            //                     dt.column(40).search('Y').draw();
-            //                 }
-            //             },
-            //             {
-            //                 text: 'All field sources',
-            //                 action: function (e, dt, node, config) {
-            //                     dt.column(40).search('').draw();
-            //                 }
-            //             },
-            //             {
-            //                 text: 'All sources',
-            //                 action: function (e, dt, node, config) {
-            //                     dt.column(40).search('').draw();
-            //                     dt.column(39).search('').draw();
-            //                 }
-            //             }
-            //         ]
-            //     }
-            // ],
+            buttons: [
+                'colvis',
+                {
+                    extend: 'collection',
+                    text: 'Filter',
+                    buttons: [
+                        {
+                            text: 'Interesting',
+                            action: function (e, dt, node, config) {
+                                dt.column(4).search('').draw();
+                            }
+                        },
+                        {
+                            text: 'All field sources',
+                            action: function (e, dt, node, config) {
+                                dt.column(4).search('').draw();
+                            }
+                        },
+                        {
+                            text: 'All sources',
+                            action: function (e, dt, node, config) {
+                                dt.column(4).search('').draw();
+                                dt.column(4).search('').draw();
+                            }
+                        }
+                    ]
+                }
+            ],
 
         });
         // table.column(40).search('Y').draw();
-        // table.column(39).search('134.8271 -43.7125').draw();
+        table.column(39).search('134.8271 -43.7125').draw();
 
         window.onload = function () {
             let
