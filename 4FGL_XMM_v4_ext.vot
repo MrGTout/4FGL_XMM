@@ -1,0 +1,4894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Produced with astropy.io.votable version 5.3.2
+     http://www.astropy.org/ -->
+<VOTABLE version="1.4" xmlns="http://www.ivoa.net/xml/VOTable/v1.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ivoa.net/xml/VOTable/v1.3 http://www.ivoa.net/xml/VOTable/VOTable-1.4.xsd">
+ <RESOURCE type="results">
+  <TABLE>
+   <FIELD ID="name" arraysize="21" datatype="unicodeChar" name="name"/>
+   <FIELD ID="CSC_name" arraysize="21" datatype="unicodeChar" name="CSC_name"/>
+   <FIELD ID="Class" arraysize="7" datatype="unicodeChar" name="Class"/>
+   <FIELD ID="CT" datatype="double" name="CT"/>
+   <FIELD ID="MW_CP__" datatype="long" name="MW_CP_#"/>
+   <FIELD ID="sc_det_ml" datatype="double" name="sc_det_ml"/>
+   <FIELD ID="sc_extent" datatype="double" name="sc_extent"/>
+   <FIELD ID="sc_ext_ml" datatype="double" name="sc_ext_ml"/>
+   <FIELD ID="CSC_Class" arraysize="4" datatype="unicodeChar" name="CSC_Class"/>
+   <FIELD ID="CSC_CT" datatype="double" name="CSC_CT"/>
+   <FIELD ID="ra" datatype="double" name="ra"/>
+   <FIELD ID="dec" datatype="double" name="dec"/>
+   <FIELD ID="_4FGL" arraysize="17" datatype="unicodeChar" name="4FGL"/>
+   <FIELD ID="popup" arraysize="1" datatype="unicodeChar" name="popup"/>
+   <FIELD ID="shape" arraysize="4" datatype="unicodeChar" name="shape"/>
+   <FIELD ID="significance" datatype="double" name="significance"/>
+   <FIELD ID="color" arraysize="7" datatype="unicodeChar" name="color"/>
+   <DATA>
+    <TABLEDATA>
+     <TR>
+      <TD>4XMM J013303.1-425727</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>66.66666666666667</TD>
+      <TD>3</TD>
+      <TD>20.17177</TD>
+      <TD>11.079932</TD>
+      <TD>5.48325</TD>
+      <TD/>
+      <TD/>
+      <TD>23.263074537520005</TD>
+      <TD>-42.957762943528</TD>
+      <TD>4FGL J0132.9-4259</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>20.17177</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J013333.2-425554</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>4.842342342342345</TD>
+      <TD>3</TD>
+      <TD>10.00025</TD>
+      <TD>16.201096</TD>
+      <TD>6.98138</TD>
+      <TD/>
+      <TD/>
+      <TD>23.388364518426</TD>
+      <TD>-42.931771907352</TD>
+      <TD>4FGL J0132.9-4259</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>10.00025</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J033327.4-270912</TD>
+      <TD>nan</TD>
+      <TD>NS_BIN</TD>
+      <TD>0.3543944916970436</TD>
+      <TD>1</TD>
+      <TD>73.98532</TD>
+      <TD>22.911448</TD>
+      <TD>50.83047</TD>
+      <TD/>
+      <TD/>
+      <TD>53.36436854604343</TD>
+      <TD>-27.1533987371707</TD>
+      <TD>4FGL J0333.4-2705</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>73.98532</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J033333.9-270955</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>24.5</TD>
+      <TD>2</TD>
+      <TD>42.00861</TD>
+      <TD>16.358065</TD>
+      <TD>10.54745</TD>
+      <TD/>
+      <TD/>
+      <TD>53.39126551015</TD>
+      <TD>-27.165325274565</TD>
+      <TD>4FGL J0333.4-2705</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>42.00861</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J033347.8-270346</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.0586641070521157</TD>
+      <TD>1</TD>
+      <TD>8.514916</TD>
+      <TD>0</TD>
+      <TD>32.95511</TD>
+      <TD/>
+      <TD/>
+      <TD>53.449395127701</TD>
+      <TD>-27.062841110454</TD>
+      <TD>4FGL J0333.4-2705</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.514916</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J033349.0-270417</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.987402110997617</TD>
+      <TD>1</TD>
+      <TD>107.1796</TD>
+      <TD>11.389</TD>
+      <TD>18.94858</TD>
+      <TD/>
+      <TD/>
+      <TD>53.454500108042</TD>
+      <TD>-27.071621254813</TD>
+      <TD>4FGL J0333.4-2705</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>107.1796</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J061636.9+223456</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.436210847975554</TD>
+      <TD>2</TD>
+      <TD>27.71668</TD>
+      <TD>27.685656</TD>
+      <TD>18.17799</TD>
+      <TD/>
+      <TD/>
+      <TD>94.153863564132</TD>
+      <TD>22.582458888889004</TD>
+      <TD>4FGL J0616.5+2235</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>27.71668</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J061637.6+223552</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.6331994645247658</TD>
+      <TD>1</TD>
+      <TD>172.8905</TD>
+      <TD>52.95448</TD>
+      <TD>148.7435</TD>
+      <TD/>
+      <TD/>
+      <TD>94.15688400527702</TD>
+      <TD>22.597850071528004</TD>
+      <TD>4FGL J0616.5+2235</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>172.8905</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J073704.9+653543</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.9047619047619049</TD>
+      <TD>1</TD>
+      <TD>1841.73</TD>
+      <TD>23.6124</TD>
+      <TD>1433.987</TD>
+      <TD/>
+      <TD/>
+      <TD>114.27072695985902</TD>
+      <TD>65.59529800024816</TD>
+      <TD>4FGL J0737.4+6535</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1841.73</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J073714.9+653428</TD>
+      <TD>2CXO J073714.8+653429</TD>
+      <TD>NS</TD>
+      <TD>0.9493670886075951</TD>
+      <TD>1</TD>
+      <TD>557.1854</TD>
+      <TD>0</TD>
+      <TD>7.604172</TD>
+      <TD>NS</TD>
+      <TD>0.9209761782371724</TD>
+      <TD>114.31221492282596</TD>
+      <TD>65.57451119018532</TD>
+      <TD>4FGL J0737.4+6535</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>557.1854</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J073715.0+653419</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>5.555555555555556</TD>
+      <TD>2</TD>
+      <TD>218.9173</TD>
+      <TD>0</TD>
+      <TD>23.81331</TD>
+      <TD/>
+      <TD/>
+      <TD>114.31263561068</TD>
+      <TD>65.571945995659</TD>
+      <TD>4FGL J0737.4+6535</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>218.9173</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J073716.9+653557</TD>
+      <TD>2CXO J073717.0+653557</TD>
+      <TD>AGN</TD>
+      <TD>2.8772574227119683</TD>
+      <TD>2</TD>
+      <TD>3030.592</TD>
+      <TD>0</TD>
+      <TD>118.6777</TD>
+      <TD>LMXB</TD>
+      <TD>2.008118640424696</TD>
+      <TD>114.32068181598</TD>
+      <TD>65.599417773859</TD>
+      <TD>4FGL J0737.4+6535</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>3030.592</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084729.4-414302</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.20149177180873667</TD>
+      <TD>1</TD>
+      <TD>355.791</TD>
+      <TD>0</TD>
+      <TD>32.67694</TD>
+      <TD/>
+      <TD/>
+      <TD>131.87264806139163</TD>
+      <TD>-41.71732705441944</TD>
+      <TD>4FGL J0847.8-4138</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>355.791</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084756.3-453103</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.035002035002035</TD>
+      <TD>1</TD>
+      <TD>38.27664</TD>
+      <TD>36.34857</TD>
+      <TD>26.39722</TD>
+      <TD/>
+      <TD/>
+      <TD>131.98476891017</TD>
+      <TD>-45.517508375667006</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>38.27664</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084801.4-453134</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.637451815784136</TD>
+      <TD>1</TD>
+      <TD>45.76499</TD>
+      <TD>40.042667</TD>
+      <TD>31.93064</TD>
+      <TD/>
+      <TD/>
+      <TD>132.005867125359</TD>
+      <TD>-45.52635902506496</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>45.76499</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084803.9-453054</TD>
+      <TD>nan</TD>
+      <TD>CV</TD>
+      <TD>0.98876404494382</TD>
+      <TD>2</TD>
+      <TD>16.959</TD>
+      <TD>70.9206</TD>
+      <TD>11.05046</TD>
+      <TD/>
+      <TD/>
+      <TD>132.01625926632997</TD>
+      <TD>-45.515087179238</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>16.959</TD>
+      <TD>blue</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084805.1-453130</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.36946386946387</TD>
+      <TD>1</TD>
+      <TD>15.72811</TD>
+      <TD>80</TD>
+      <TD>15.45279</TD>
+      <TD/>
+      <TD/>
+      <TD>132.02135612567503</TD>
+      <TD>-45.5251311651373</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>15.72811</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084805.2-452834</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.7223230490018158</TD>
+      <TD>1</TD>
+      <TD>235.2477</TD>
+      <TD>0</TD>
+      <TD>9.528641</TD>
+      <TD/>
+      <TD/>
+      <TD>132.02168144782536</TD>
+      <TD>-45.47612093910968</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>235.2477</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084806.8-453049</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.5157232704402523</TD>
+      <TD>2</TD>
+      <TD>68.35377</TD>
+      <TD>66.4926</TD>
+      <TD>67.36225</TD>
+      <TD/>
+      <TD/>
+      <TD>132.02847657115</TD>
+      <TD>-45.513793798149</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>68.35377</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084806.9-453202</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.956521739130435</TD>
+      <TD>4</TD>
+      <TD>29.7809</TD>
+      <TD>37.495827</TD>
+      <TD>22.29683</TD>
+      <TD/>
+      <TD/>
+      <TD>132.02877441069</TD>
+      <TD>-45.533890725219</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>29.7809</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084807.1-413811</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>0.4728132387706858</TD>
+      <TD>2</TD>
+      <TD>203.4832</TD>
+      <TD>0</TD>
+      <TD>14.6873</TD>
+      <TD/>
+      <TD/>
+      <TD>132.0296553744904</TD>
+      <TD>-41.63646319651444</TD>
+      <TD>4FGL J0847.8-4138</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>203.4832</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084807.5-452758</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.4116337210704466</TD>
+      <TD>6</TD>
+      <TD>12.53942</TD>
+      <TD>25.835144</TD>
+      <TD>4.58371</TD>
+      <TD/>
+      <TD/>
+      <TD>132.03164996307</TD>
+      <TD>-45.46622737409</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>12.53942</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084809.0-453236</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>3.2770097286226316</TD>
+      <TD>1</TD>
+      <TD>135.2933</TD>
+      <TD>42.751537</TD>
+      <TD>113.707</TD>
+      <TD/>
+      <TD/>
+      <TD>132.03765694760267</TD>
+      <TD>-45.54350809600157</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>135.2933</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084809.4-452948</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.8132992327365742</TD>
+      <TD>33</TD>
+      <TD>9.254105</TD>
+      <TD>30.851904</TD>
+      <TD>6.225275</TD>
+      <TD/>
+      <TD/>
+      <TD>132.03931462673</TD>
+      <TD>-45.49687776349901</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>9.254105</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084816.2-452933</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>3.167848699763593</TD>
+      <TD>5</TD>
+      <TD>25.64785</TD>
+      <TD>26.761787</TD>
+      <TD>15.4556</TD>
+      <TD/>
+      <TD/>
+      <TD>132.06770476046998</TD>
+      <TD>-45.492514527654</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>25.64785</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084817.8-452959</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.0261558298029114</TD>
+      <TD>5</TD>
+      <TD>14.2958</TD>
+      <TD>36.222137</TD>
+      <TD>13.12628</TD>
+      <TD/>
+      <TD/>
+      <TD>132.07417933931</TD>
+      <TD>-45.499973677654</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>14.2958</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084819.3-452747</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.884615384615385</TD>
+      <TD>1</TD>
+      <TD>59.93327</TD>
+      <TD>36.312927</TD>
+      <TD>49.61732</TD>
+      <TD/>
+      <TD/>
+      <TD>132.08072532669505</TD>
+      <TD>-45.46333297538606</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>59.93327</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084820.7-452947</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>3.498817966903075</TD>
+      <TD>13</TD>
+      <TD>21.94816</TD>
+      <TD>41.5234</TD>
+      <TD>16.3431</TD>
+      <TD/>
+      <TD/>
+      <TD>132.08627748157</TD>
+      <TD>-45.496557054773</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>21.94816</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084822.7-453216</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.959860754013487</TD>
+      <TD>1</TD>
+      <TD>18.66088</TD>
+      <TD>32.557686</TD>
+      <TD>9.625355</TD>
+      <TD/>
+      <TD/>
+      <TD>132.09476201974</TD>
+      <TD>-45.537792522458005</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>18.66088</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084823.5-453006</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.6130268199233717</TD>
+      <TD>1</TD>
+      <TD>21.95262</TD>
+      <TD>10.654317</TD>
+      <TD>7.314578</TD>
+      <TD/>
+      <TD/>
+      <TD>132.09825905888465</TD>
+      <TD>-45.50175547471648</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>21.95262</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084824.5-453203</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>4.254998276456397</TD>
+      <TD>4</TD>
+      <TD>11.39228</TD>
+      <TD>31.887487</TD>
+      <TD>5.664763</TD>
+      <TD/>
+      <TD/>
+      <TD>132.10245530115</TD>
+      <TD>-45.534390658311</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>11.39228</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084825.8-452612</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.621591930490364</TD>
+      <TD>1</TD>
+      <TD>34.47576</TD>
+      <TD>39.037056</TD>
+      <TD>28.33927</TD>
+      <TD/>
+      <TD/>
+      <TD>132.107737094183</TD>
+      <TD>-45.43686666716001</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>34.47576</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084828.0-452242</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.343434343434344</TD>
+      <TD>29</TD>
+      <TD>17.07289</TD>
+      <TD>47.6796</TD>
+      <TD>10.6811</TD>
+      <TD/>
+      <TD/>
+      <TD>132.11676837494</TD>
+      <TD>-45.378553880634</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>17.07289</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084829.5-453142</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>5.132962275819422</TD>
+      <TD>4</TD>
+      <TD>37.56347</TD>
+      <TD>30.725832</TD>
+      <TD>23.55449</TD>
+      <TD/>
+      <TD/>
+      <TD>132.12328597059</TD>
+      <TD>-45.52840470312601</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>37.56347</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084829.8-453117</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.3613193403298354</TD>
+      <TD>2</TD>
+      <TD>37.18264</TD>
+      <TD>39.424534</TD>
+      <TD>30.41896</TD>
+      <TD/>
+      <TD/>
+      <TD>132.12456382592512</TD>
+      <TD>-45.52159111049916</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>37.18264</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084830.3-452940</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>2.019360215398425</TD>
+      <TD>72</TD>
+      <TD>8.826806</TD>
+      <TD>45.11484</TD>
+      <TD>8.093406</TD>
+      <TD/>
+      <TD/>
+      <TD>132.12632092813</TD>
+      <TD>-45.494478002057</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.826806</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J084841.4-452703</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>10.657596371882088</TD>
+      <TD>31</TD>
+      <TD>8.671022</TD>
+      <TD>26.525269</TD>
+      <TD>4.737928</TD>
+      <TD/>
+      <TD/>
+      <TD>132.17265972649</TD>
+      <TD>-45.451092872491</TD>
+      <TD>4FGL J0848.2-4527</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.671022</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J102555.0+124217</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.38155802861685223</TD>
+      <TD>1</TD>
+      <TD>238.1937</TD>
+      <TD>43.98992</TD>
+      <TD>214.7381</TD>
+      <TD/>
+      <TD/>
+      <TD>156.47947695161</TD>
+      <TD>12.704767878109</TD>
+      <TD>4FGL J1025.9+1244</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>238.1937</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J102557.8+124108</TD>
+      <TD>2CXO J102557.9+124109</TD>
+      <TD>NS</TD>
+      <TD>1.3329915406306074</TD>
+      <TD>1</TD>
+      <TD>118725.5</TD>
+      <TD>22.158524</TD>
+      <TD>31407.11</TD>
+      <TD>NS</TD>
+      <TD>0.6760962629985446</TD>
+      <TD>156.49124339249</TD>
+      <TD>12.685613546568</TD>
+      <TD>4FGL J1025.9+1244</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>118725.5</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J102558.9+124006</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.34640282318300913</TD>
+      <TD>1</TD>
+      <TD>210.4653</TD>
+      <TD>30.130232</TD>
+      <TD>167.9489</TD>
+      <TD/>
+      <TD/>
+      <TD>156.49553619833</TD>
+      <TD>12.668394164931</TD>
+      <TD>4FGL J1025.9+1244</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>210.4653</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J105307.6-593853</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.4730639730639743</TD>
+      <TD>4</TD>
+      <TD>224.5407</TD>
+      <TD>41.93608</TD>
+      <TD>103.3288</TD>
+      <TD/>
+      <TD/>
+      <TD>163.28202797008004</TD>
+      <TD>-59.648201186028</TD>
+      <TD>4FGL J1054.0-5938</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>224.5407</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J105320.5-593449</TD>
+      <TD>nan</TD>
+      <TD>CV</TD>
+      <TD>2.370820668693011</TD>
+      <TD>101</TD>
+      <TD>37.49115</TD>
+      <TD>41.20384</TD>
+      <TD>32.59425</TD>
+      <TD/>
+      <TD/>
+      <TD>163.33548159598</TD>
+      <TD>-59.580543333767</TD>
+      <TD>4FGL J1054.0-5938</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>37.49115</TD>
+      <TD>blue</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J105343.3-593525</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.1375126390293226</TD>
+      <TD>9</TD>
+      <TD>18.05953</TD>
+      <TD>14.89252</TD>
+      <TD>8.335896</TD>
+      <TD/>
+      <TD/>
+      <TD>163.43071159629002</TD>
+      <TD>-59.590331875485006</TD>
+      <TD>4FGL J1054.0-5938</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>18.05953</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J105409.9-593627</TD>
+      <TD>nan</TD>
+      <TD>CV</TD>
+      <TD>2.400426742532012</TD>
+      <TD>17</TD>
+      <TD>61.88119</TD>
+      <TD>44.41636</TD>
+      <TD>55.92662</TD>
+      <TD/>
+      <TD/>
+      <TD>163.54151557436</TD>
+      <TD>-59.607631790187</TD>
+      <TD>4FGL J1054.0-5938</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>61.88119</TD>
+      <TD>blue</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J105415.2-593434</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.7786561264822136</TD>
+      <TD>12</TD>
+      <TD>9.277612</TD>
+      <TD>11.87138</TD>
+      <TD>5.729309</TD>
+      <TD/>
+      <TD/>
+      <TD>163.56350676966</TD>
+      <TD>-59.576180514076</TD>
+      <TD>4FGL J1054.0-5938</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>9.277612</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J105419.6-593254</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.7101449275362317</TD>
+      <TD>5</TD>
+      <TD>28.58842</TD>
+      <TD>38.954086</TD>
+      <TD>23.45262</TD>
+      <TD/>
+      <TD/>
+      <TD>163.58183042312</TD>
+      <TD>-59.548447714831006</TD>
+      <TD>4FGL J1054.0-5938</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>28.58842</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125605.9+274041</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>1.4735772357723578</TD>
+      <TD>4</TD>
+      <TD>36.93935</TD>
+      <TD>6.859436</TD>
+      <TD>6.850607</TD>
+      <TD/>
+      <TD/>
+      <TD>194.02478850911</TD>
+      <TD>27.678233725681995</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>36.93935</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125639.1+272900</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>6.490384615384615</TD>
+      <TD>5</TD>
+      <TD>23.62817</TD>
+      <TD>26.00942</TD>
+      <TD>14.1603</TD>
+      <TD/>
+      <TD/>
+      <TD>194.1631355810852</TD>
+      <TD>27.483416415556967</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>23.62817</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125653.1+273045</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>6.872852233676975</TD>
+      <TD>2</TD>
+      <TD>10.09575</TD>
+      <TD>31.1495</TD>
+      <TD>5.653287</TD>
+      <TD/>
+      <TD/>
+      <TD>194.22147165233</TD>
+      <TD>27.512591604937995</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>10.09575</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125658.8+272858</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>1.9567259192263544</TD>
+      <TD>7</TD>
+      <TD>14.8964</TD>
+      <TD>48.43516</TD>
+      <TD>12.15921</TD>
+      <TD/>
+      <TD/>
+      <TD>194.24509301413</TD>
+      <TD>27.482943092908</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>14.8964</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125659.2+273124</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>8.153701968134959</TD>
+      <TD>7</TD>
+      <TD>20.18368</TD>
+      <TD>44.38416</TD>
+      <TD>13.49905</TD>
+      <TD/>
+      <TD/>
+      <TD>194.24699707837</TD>
+      <TD>27.52344484352</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>20.18368</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125700.8+272623</TD>
+      <TD>2CXO J125700.8+272622</TD>
+      <TD>AGN</TD>
+      <TD>12.794612794612812</TD>
+      <TD>2</TD>
+      <TD>26.29327</TD>
+      <TD>9.842564</TD>
+      <TD>6.912954</TD>
+      <TD>AGN</TD>
+      <TD>30.029151714891903</TD>
+      <TD>194.2536317605573</TD>
+      <TD>27.43981215347517</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>26.29327</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125702.7+272507</TD>
+      <TD>2CXO J125702.5+272509</TD>
+      <TD>AGN</TD>
+      <TD>18.34827677524317</TD>
+      <TD>3</TD>
+      <TD>12.11028</TD>
+      <TD>15.874196</TD>
+      <TD>5.500636</TD>
+      <TD/>
+      <TD/>
+      <TD>194.26139058348</TD>
+      <TD>27.418728694324</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>12.11028</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125706.2+273330</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.425279711143313</TD>
+      <TD>1</TD>
+      <TD>8.212791</TD>
+      <TD>54.63296</TD>
+      <TD>6.714509</TD>
+      <TD/>
+      <TD/>
+      <TD>194.27594033553004</TD>
+      <TD>27.558454601118</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.212791</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125708.1+272816</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.7601166779100598</TD>
+      <TD>1</TD>
+      <TD>137.5402</TD>
+      <TD>29.041828</TD>
+      <TD>15.00009</TD>
+      <TD/>
+      <TD/>
+      <TD>194.28413117763</TD>
+      <TD>27.471368681005</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>137.5402</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125709.5+273018</TD>
+      <TD>2CXO J125709.6+273018</TD>
+      <TD>AGN</TD>
+      <TD>18.181818181818215</TD>
+      <TD>2</TD>
+      <TD>21.60446</TD>
+      <TD>9.518876</TD>
+      <TD>7.037866</TD>
+      <TD>AGN</TD>
+      <TD>9.83203004828954</TD>
+      <TD>194.28978533609344</TD>
+      <TD>27.50516042557606</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>21.60446</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125709.8+273526</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>1.1043301365882017</TD>
+      <TD>2</TD>
+      <TD>24.32642</TD>
+      <TD>29.230623</TD>
+      <TD>20.35254</TD>
+      <TD/>
+      <TD/>
+      <TD>194.29084777431</TD>
+      <TD>27.59059728379</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>24.32642</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125711.7+273736</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.0014044943820233</TD>
+      <TD>1</TD>
+      <TD>6.239469</TD>
+      <TD>32.349922</TD>
+      <TD>5.335623</TD>
+      <TD/>
+      <TD/>
+      <TD>194.29887667302</TD>
+      <TD>27.626707504803004</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>6.239469</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125713.1+272932</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.24225889649209117</TD>
+      <TD>1</TD>
+      <TD>17.33302</TD>
+      <TD>21.987406</TD>
+      <TD>10.57073</TD>
+      <TD/>
+      <TD/>
+      <TD>194.30496337310444</TD>
+      <TD>27.492245996926226</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>17.33302</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125714.8+273952</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>5.078125000000003</TD>
+      <TD>6</TD>
+      <TD>16.89883</TD>
+      <TD>47.35732</TD>
+      <TD>7.360686</TD>
+      <TD/>
+      <TD/>
+      <TD>194.31172135563</TD>
+      <TD>27.664669740764</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>16.89883</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125715.4+272851</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.5893446487505895</TD>
+      <TD>1</TD>
+      <TD>10.63719</TD>
+      <TD>54.49036</TD>
+      <TD>8.17441</TD>
+      <TD/>
+      <TD/>
+      <TD>194.31426987499</TD>
+      <TD>27.480930412523</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>10.63719</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125716.0+272939</TD>
+      <TD>2CXO J125716.1+272938</TD>
+      <TD>NS</TD>
+      <TD>0.21272522282967096</TD>
+      <TD>1</TD>
+      <TD>79.75079</TD>
+      <TD>23.801085</TD>
+      <TD>35.46762</TD>
+      <TD>NS</TD>
+      <TD>0.2263872075643272</TD>
+      <TD>194.3168370056424</TD>
+      <TD>27.494211912841443</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>79.75079</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125716.1+272920</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>3.9066860140640696</TD>
+      <TD>3</TD>
+      <TD>66.86176</TD>
+      <TD>61.05416</TD>
+      <TD>58.83038</TD>
+      <TD/>
+      <TD/>
+      <TD>194.317309756</TD>
+      <TD>27.488953183553</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>66.86176</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125716.2+272809</TD>
+      <TD>2CXO J125716.2+272809</TD>
+      <TD>NS</TD>
+      <TD>0.05164008923407427</TD>
+      <TD>1</TD>
+      <TD>186.4101</TD>
+      <TD>0</TD>
+      <TD>103.3244</TD>
+      <TD>LMXB</TD>
+      <TD>0.1593334331709924</TD>
+      <TD>194.31763735657427</TD>
+      <TD>27.469423683781827</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>186.4101</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125716.4+272842</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.3039390500891557</TD>
+      <TD>1</TD>
+      <TD>197.4349</TD>
+      <TD>34.598053</TD>
+      <TD>195.3711</TD>
+      <TD/>
+      <TD/>
+      <TD>194.3186862625004</TD>
+      <TD>27.478607391667712</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>197.4349</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125717.5+272911</TD>
+      <TD>nan</TD>
+      <TD>NS_BIN</TD>
+      <TD>0.3408277570125314</TD>
+      <TD>1</TD>
+      <TD>57.04453</TD>
+      <TD>49.745277</TD>
+      <TD>42.95713</TD>
+      <TD/>
+      <TD/>
+      <TD>194.32323449796195</TD>
+      <TD>27.486514145276693</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>57.04453</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125719.8+272908</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.20460358056266</TD>
+      <TD>1</TD>
+      <TD>127.502</TD>
+      <TD>25.397173</TD>
+      <TD>97.96745</TD>
+      <TD/>
+      <TD/>
+      <TD>194.33281943473395</TD>
+      <TD>27.485826541769228</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>127.502</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125722.8+273628</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.4663256606990627</TD>
+      <TD>1</TD>
+      <TD>8.221794</TD>
+      <TD>37.297653</TD>
+      <TD>4.910246</TD>
+      <TD/>
+      <TD/>
+      <TD>194.34522978740995</TD>
+      <TD>27.60805238727656</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.221794</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125722.9+272947</TD>
+      <TD>nan</TD>
+      <TD>NS_BIN</TD>
+      <TD>0.021760417800021577</TD>
+      <TD>1</TD>
+      <TD>1607.535</TD>
+      <TD>30.301546</TD>
+      <TD>1068.77</TD>
+      <TD/>
+      <TD/>
+      <TD>194.3457225446988</TD>
+      <TD>27.49660701996092</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1607.535</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125724.3+272952</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>0.14596835406084008</TD>
+      <TD>2</TD>
+      <TD>1077.281</TD>
+      <TD>8.146638</TD>
+      <TD>782.6538</TD>
+      <TD/>
+      <TD/>
+      <TD>194.35155412481632</TD>
+      <TD>27.49777940553589</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1077.281</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125726.9+272600</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.45897877223178435</TD>
+      <TD>1</TD>
+      <TD>17.51568</TD>
+      <TD>35.2877</TD>
+      <TD>10.12573</TD>
+      <TD/>
+      <TD/>
+      <TD>194.36223645064</TD>
+      <TD>27.433532647815</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>17.51568</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125734.0+272730</TD>
+      <TD>2CXO J125734.0+272730</TD>
+      <TD>NS</TD>
+      <TD>0.5360205831903944</TD>
+      <TD>1</TD>
+      <TD>241.8015</TD>
+      <TD>0</TD>
+      <TD>7.469337</TD>
+      <TD>AGN</TD>
+      <TD>48.44083868672127</TD>
+      <TD>194.3917168622871</TD>
+      <TD>27.458445813321013</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>241.8015</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125734.3+272908</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.1369554533518185</TD>
+      <TD>1</TD>
+      <TD>9.816457</TD>
+      <TD>0</TD>
+      <TD>15.5095</TD>
+      <TD/>
+      <TD/>
+      <TD>194.39307471736</TD>
+      <TD>27.485819576025</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>9.816457</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125735.8+272935</TD>
+      <TD>2CXO J125735.8+272936</TD>
+      <TD>YSO</TD>
+      <TD>1.8144329896907214</TD>
+      <TD>2</TD>
+      <TD>32.96436</TD>
+      <TD>21.704744</TD>
+      <TD>6.483009</TD>
+      <TD/>
+      <TD/>
+      <TD>194.3991852607284</TD>
+      <TD>27.49310556942075</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>32.96436</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125736.6+272751</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>8.434864104967197</TD>
+      <TD>29</TD>
+      <TD>12.08095</TD>
+      <TD>70.85512</TD>
+      <TD>10.17147</TD>
+      <TD/>
+      <TD/>
+      <TD>194.40269756896</TD>
+      <TD>27.464442774281</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>12.08095</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125737.1+273046</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.2820512820512826</TD>
+      <TD>1</TD>
+      <TD>14.42945</TD>
+      <TD>34.783997</TD>
+      <TD>9.273411</TD>
+      <TD/>
+      <TD/>
+      <TD>194.40462905589004</TD>
+      <TD>27.512983467521003</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>14.42945</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125743.0+273628</TD>
+      <TD>2CXO J125743.0+273628</TD>
+      <TD>AGN</TD>
+      <TD>1.7959770114942528</TD>
+      <TD>2</TD>
+      <TD>1447.799</TD>
+      <TD>0</TD>
+      <TD>46.06293</TD>
+      <TD/>
+      <TD/>
+      <TD>194.4295105328013</TD>
+      <TD>27.60793184767017</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1447.799</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125744.4+274054</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>3.3739456419868805</TD>
+      <TD>3</TD>
+      <TD>8.933701</TD>
+      <TD>28.105528</TD>
+      <TD>5.971466</TD>
+      <TD/>
+      <TD/>
+      <TD>194.43511426791</TD>
+      <TD>27.681910913244</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.933701</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125745.1+273614</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.2527634487840829</TD>
+      <TD>4</TD>
+      <TD>212.6305</TD>
+      <TD>44.6596</TD>
+      <TD>70.73315</TD>
+      <TD/>
+      <TD/>
+      <TD>194.43816902406</TD>
+      <TD>27.604130689142</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>212.6305</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125751.0+273401</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>6.250000000000004</TD>
+      <TD>4</TD>
+      <TD>18.77805</TD>
+      <TD>26.223724</TD>
+      <TD>9.899204</TD>
+      <TD/>
+      <TD/>
+      <TD>194.46262916499</TD>
+      <TD>27.566999641461</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>18.77805</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J125754.2+273509</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>3.7342767295597485</TD>
+      <TD>3</TD>
+      <TD>13.65481</TD>
+      <TD>9.392384</TD>
+      <TD>8.291399</TD>
+      <TD/>
+      <TD/>
+      <TD>194.47605642508</TD>
+      <TD>27.585834215768</TD>
+      <TD>4FGL J1256.9+2736</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>13.65481</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J131219.8-625613</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>3.857665447289658</TD>
+      <TD>130</TD>
+      <TD>13.69167</TD>
+      <TD>40.11568</TD>
+      <TD>9.942717</TD>
+      <TD/>
+      <TD/>
+      <TD>198.08252219971</TD>
+      <TD>-62.936972518519</TD>
+      <TD>4FGL J1312.3-6257</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>13.69167</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J131318.1-443823</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>2.369439071566731</TD>
+      <TD>8</TD>
+      <TD>19.43217</TD>
+      <TD>33.279064</TD>
+      <TD>17.32077</TD>
+      <TD/>
+      <TD/>
+      <TD>198.32542364262</TD>
+      <TD>-44.63998732447699</TD>
+      <TD>4FGL J1313.2-4437</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>19.43217</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J140442.2-601125</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.6262566528681257</TD>
+      <TD>1</TD>
+      <TD>8.420456</TD>
+      <TD>0</TD>
+      <TD>6.986897</TD>
+      <TD/>
+      <TD/>
+      <TD>211.17616906307</TD>
+      <TD>-60.190510529412</TD>
+      <TD>4FGL J1405.3-6008</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.420456</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J140455.4-601157</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.7014446227929383</TD>
+      <TD>9</TD>
+      <TD>14.13681</TD>
+      <TD>9.200784</TD>
+      <TD>7.550948</TD>
+      <TD/>
+      <TD/>
+      <TD>211.23107208807</TD>
+      <TD>-60.19927581060101</TD>
+      <TD>4FGL J1405.3-6008</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>14.13681</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J151046.7+054932</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.2393998695368564</TD>
+      <TD>1</TD>
+      <TD>8.063579</TD>
+      <TD>78.45212</TD>
+      <TD>8.025378</TD>
+      <TD/>
+      <TD/>
+      <TD>227.69489262715</TD>
+      <TD>5.825751108113099</TD>
+      <TD>4FGL J1510.9+0551</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.063579</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J151100.4+054915</TD>
+      <TD>2CXO J151100.5+054912</TD>
+      <TD>NS</TD>
+      <TD>0.8336491095111791</TD>
+      <TD>1</TD>
+      <TD>292.151</TD>
+      <TD>0</TD>
+      <TD>8.85849</TD>
+      <TD>AGN</TD>
+      <TD>43.35485056208104</TD>
+      <TD>227.75193342240843</TD>
+      <TD>5.820944976361109</TD>
+      <TD>4FGL J1510.9+0551</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>292.151</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J151102.1+055259</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>6.845661450924626</TD>
+      <TD>2</TD>
+      <TD>29.51677</TD>
+      <TD>44.77376</TD>
+      <TD>16.37614</TD>
+      <TD/>
+      <TD/>
+      <TD>227.75902862058</TD>
+      <TD>5.883320402563399</TD>
+      <TD>4FGL J1510.9+0551</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>29.51677</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J151102.3+055004</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>9.587628865979381</TD>
+      <TD>10</TD>
+      <TD>34.12498</TD>
+      <TD>56.03176</TD>
+      <TD>32.32775</TD>
+      <TD/>
+      <TD/>
+      <TD>227.75989346965</TD>
+      <TD>5.8344525129073</TD>
+      <TD>4FGL J1510.9+0551</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>34.12498</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J151103.3+055109</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.30946065428824043</TD>
+      <TD>1</TD>
+      <TD>50.41103</TD>
+      <TD>62.54024</TD>
+      <TD>46.17028</TD>
+      <TD/>
+      <TD/>
+      <TD>227.76376296109</TD>
+      <TD>5.8526099998821</TD>
+      <TD>4FGL J1510.9+0551</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>50.41103</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J151930.6+673013</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.4280738418669459</TD>
+      <TD>2</TD>
+      <TD>25.93906</TD>
+      <TD>17.115772</TD>
+      <TD>8.219051</TD>
+      <TD/>
+      <TD/>
+      <TD>229.8775724092</TD>
+      <TD>67.503764388346</TD>
+      <TD>4FGL J1519.7+6727</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>25.93906</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J151958.4+672542</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.5594541910331388</TD>
+      <TD>1</TD>
+      <TD>790.4104</TD>
+      <TD>78.22692</TD>
+      <TD>154.5466</TD>
+      <TD/>
+      <TD/>
+      <TD>229.99371485863</TD>
+      <TD>67.428520596293</TD>
+      <TD>4FGL J1519.7+6727</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>790.4104</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J155624.2+111136</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.30333179645223163</TD>
+      <TD>1</TD>
+      <TD>47.32544</TD>
+      <TD>9.14942</TD>
+      <TD>7.993984</TD>
+      <TD/>
+      <TD/>
+      <TD>239.10087362728063</TD>
+      <TD>11.19347901279081</TD>
+      <TD>4FGL J1556.5+1116</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>47.32544</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J155632.8+111417</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>5.786498170934494</TD>
+      <TD>3</TD>
+      <TD>17.5816</TD>
+      <TD>11.255936</TD>
+      <TD>4.850586</TD>
+      <TD/>
+      <TD/>
+      <TD>239.13697487544</TD>
+      <TD>11.238113719361</TD>
+      <TD>4FGL J1556.5+1116</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>17.5816</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J155634.0+111325</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.7559650366170565</TD>
+      <TD>1</TD>
+      <TD>86.11527</TD>
+      <TD>0</TD>
+      <TD>111.2781</TD>
+      <TD/>
+      <TD/>
+      <TD>239.1417576627688</TD>
+      <TD>11.22376062750719</TD>
+      <TD>4FGL J1556.5+1116</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>86.11527</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J155634.3+111357</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>13.997113997114019</TD>
+      <TD>10</TD>
+      <TD>6.985633</TD>
+      <TD>39.35974</TD>
+      <TD>4.704089</TD>
+      <TD/>
+      <TD/>
+      <TD>239.1431123155</TD>
+      <TD>11.232722181551</TD>
+      <TD>4FGL J1556.5+1116</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>6.985633</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J155634.8+111301</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.1725539604734367</TD>
+      <TD>1</TD>
+      <TD>1045.77</TD>
+      <TD>8.949278</TD>
+      <TD>237.4866</TD>
+      <TD/>
+      <TD/>
+      <TD>239.1452471337857</TD>
+      <TD>11.217197054358213</TD>
+      <TD>4FGL J1556.5+1116</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1045.77</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J155639.4+111406</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>0.338777979431337</TD>
+      <TD>1</TD>
+      <TD>223.6154</TD>
+      <TD>0</TD>
+      <TD>18.15773</TD>
+      <TD/>
+      <TD/>
+      <TD>239.1645283248949</TD>
+      <TD>11.235196408496607</TD>
+      <TD>4FGL J1556.5+1116</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>223.6154</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162742.5-491804</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.8348997940834677</TD>
+      <TD>1</TD>
+      <TD>12.75767</TD>
+      <TD>54.67156</TD>
+      <TD>7.114893</TD>
+      <TD/>
+      <TD/>
+      <TD>246.92742472609</TD>
+      <TD>-49.301135448143</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>12.75767</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162751.4-491746</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.9097222222222223</TD>
+      <TD>4</TD>
+      <TD>6.860613</TD>
+      <TD>47.38544</TD>
+      <TD>6.674843</TD>
+      <TD/>
+      <TD/>
+      <TD>246.96457103339</TD>
+      <TD>-49.296164751014</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>6.860613</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162801.4-492304</TD>
+      <TD>nan</TD>
+      <TD>HMXB</TD>
+      <TD>2.349984163150208</TD>
+      <TD>11</TD>
+      <TD>230.4131</TD>
+      <TD>38.13195</TD>
+      <TD>214.3792</TD>
+      <TD/>
+      <TD/>
+      <TD>247.0060444385</TD>
+      <TD>-49.384495742511</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>230.4131</TD>
+      <TD>peru</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162801.4-492434</TD>
+      <TD>nan</TD>
+      <TD>CV</TD>
+      <TD>1.8485602559544962</TD>
+      <TD>12</TD>
+      <TD>74.2804</TD>
+      <TD>21.023176</TD>
+      <TD>57.58329</TD>
+      <TD/>
+      <TD/>
+      <TD>247.0059493696</TD>
+      <TD>-49.409614320175</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>74.2804</TD>
+      <TD>blue</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162801.7-492030</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.1210249370853356</TD>
+      <TD>1</TD>
+      <TD>13.2412</TD>
+      <TD>0</TD>
+      <TD>7.713856</TD>
+      <TD/>
+      <TD/>
+      <TD>247.00718192228</TD>
+      <TD>-49.34185859111199</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>13.2412</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162801.7-492215</TD>
+      <TD>nan</TD>
+      <TD>CV</TD>
+      <TD>2.864583333333334</TD>
+      <TD>104</TD>
+      <TD>23.82852</TD>
+      <TD>19.975676</TD>
+      <TD>15.03322</TD>
+      <TD/>
+      <TD/>
+      <TD>247.00719391689</TD>
+      <TD>-49.370937760069</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>23.82852</TD>
+      <TD>blue</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162801.8-491956</TD>
+      <TD>nan</TD>
+      <TD>HMXB</TD>
+      <TD>2.842293324671112</TD>
+      <TD>98</TD>
+      <TD>34.95704</TD>
+      <TD>14.21122</TD>
+      <TD>23.6142</TD>
+      <TD/>
+      <TD/>
+      <TD>247.00773184863</TD>
+      <TD>-49.33242096506</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>34.95704</TD>
+      <TD>peru</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162801.8-492326</TD>
+      <TD>nan</TD>
+      <TD>CV</TD>
+      <TD>2.326869806094184</TD>
+      <TD>9</TD>
+      <TD>21.97971</TD>
+      <TD>17.206072</TD>
+      <TD>14.58034</TD>
+      <TD/>
+      <TD/>
+      <TD>247.00783809469</TD>
+      <TD>-49.390682225903</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>21.97971</TD>
+      <TD>blue</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162802.1-492118</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.7690335811330429</TD>
+      <TD>1</TD>
+      <TD>122.9014</TD>
+      <TD>29.86172</TD>
+      <TD>93.49591</TD>
+      <TD/>
+      <TD/>
+      <TD>247.00900673769863</TD>
+      <TD>-49.355153094957146</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>122.9014</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162802.3-491809</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>1.0732323232323233</TD>
+      <TD>3</TD>
+      <TD>190.0969</TD>
+      <TD>42.60835</TD>
+      <TD>136.0249</TD>
+      <TD/>
+      <TD/>
+      <TD>247.00961778236595</TD>
+      <TD>-49.30261465940029</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>190.0969</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162805.2-492302</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.5963675792897806</TD>
+      <TD>1</TD>
+      <TD>105.3471</TD>
+      <TD>0</TD>
+      <TD>126.8883</TD>
+      <TD/>
+      <TD/>
+      <TD>247.0219959722837</TD>
+      <TD>-49.383928247827534</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>105.3471</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162813.3-492002</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.7880307295331931</TD>
+      <TD>1</TD>
+      <TD>138.5345</TD>
+      <TD>11.700271</TD>
+      <TD>7.098122</TD>
+      <TD/>
+      <TD/>
+      <TD>247.05546660825527</TD>
+      <TD>-49.33399962881346</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>138.5345</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162813.6-492015</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.4943820224719102</TD>
+      <TD>1</TD>
+      <TD>83.8476</TD>
+      <TD>37.09874</TD>
+      <TD>68.34683</TD>
+      <TD/>
+      <TD/>
+      <TD>247.05693377838</TD>
+      <TD>-49.337615734482</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>83.8476</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J162815.7-492015</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>2.539667182662539</TD>
+      <TD>2</TD>
+      <TD>1003.611</TD>
+      <TD>0</TD>
+      <TD>52.81244</TD>
+      <TD/>
+      <TD/>
+      <TD>247.06564735057896</TD>
+      <TD>-49.337658557336034</TD>
+      <TD>4FGL J1628.0-4920</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1003.611</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J165154.4-451447</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.3003250812703175</TD>
+      <TD>4</TD>
+      <TD>345.5397</TD>
+      <TD>0</TD>
+      <TD>27.22888</TD>
+      <TD/>
+      <TD/>
+      <TD>252.97671549819</TD>
+      <TD>-45.246403112115</TD>
+      <TD>4FGL J1652.2-4516</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>345.5397</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J165205.6-451512</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>2.752371273712741</TD>
+      <TD>5</TD>
+      <TD>111.5587</TD>
+      <TD>60.82692</TD>
+      <TD>89.8187</TD>
+      <TD/>
+      <TD/>
+      <TD>253.02335775642004</TD>
+      <TD>-45.25344154193501</TD>
+      <TD>4FGL J1652.2-4516</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>111.5587</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J165217.6-451513</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>1.9181585677749367</TD>
+      <TD>21</TD>
+      <TD>24.77139</TD>
+      <TD>50.95008</TD>
+      <TD>23.64165</TD>
+      <TD/>
+      <TD/>
+      <TD>253.07355291696</TD>
+      <TD>-45.253880974681</TD>
+      <TD>4FGL J1652.2-4516</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>24.77139</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J165221.1-451254</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>2.5035561877667143</TD>
+      <TD>14</TD>
+      <TD>8.435856</TD>
+      <TD>11.987584</TD>
+      <TD>5.641444</TD>
+      <TD/>
+      <TD/>
+      <TD>253.08814047687</TD>
+      <TD>-45.215049957612</TD>
+      <TD>4FGL J1652.2-4516</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.435856</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J165224.7-451523</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>4.446064139941695</TD>
+      <TD>6</TD>
+      <TD>366.1464</TD>
+      <TD>79.99984</TD>
+      <TD>297.0814</TD>
+      <TD/>
+      <TD/>
+      <TD>253.10332780733</TD>
+      <TD>-45.256620092143</TD>
+      <TD>4FGL J1652.2-4516</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>366.1464</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J165236.7-451525</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.073874367653487</TD>
+      <TD>9</TD>
+      <TD>49.97272</TD>
+      <TD>31.767311</TD>
+      <TD>19.87571</TD>
+      <TD/>
+      <TD/>
+      <TD>253.1531903234</TD>
+      <TD>-45.257136305582</TD>
+      <TD>4FGL J1652.2-4516</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>49.97272</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J170623.3+642736</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>5.596465390279824</TD>
+      <TD>3</TD>
+      <TD>56.73808</TD>
+      <TD>12.235892</TD>
+      <TD>12.2325</TD>
+      <TD/>
+      <TD/>
+      <TD>256.59714528596004</TD>
+      <TD>64.46023902110902</TD>
+      <TD>4FGL J1706.4+6428</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>56.73808</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J171734.8-402035</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>3.123798539023453</TD>
+      <TD>244</TD>
+      <TD>39.91828</TD>
+      <TD>49.18668</TD>
+      <TD>34.01858</TD>
+      <TD/>
+      <TD/>
+      <TD>259.3950427455</TD>
+      <TD>-40.343296436888</TD>
+      <TD>4FGL J1717.5-4022</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>39.91828</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J171736.9-402300</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.7001114827201784</TD>
+      <TD>5</TD>
+      <TD>87.45673</TD>
+      <TD>13.589524</TD>
+      <TD>45.67554</TD>
+      <TD/>
+      <TD/>
+      <TD>259.4039392107</TD>
+      <TD>-40.383401898658</TD>
+      <TD>4FGL J1717.5-4022</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>87.45673</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J171738.6-402333</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>2.523068050749712</TD>
+      <TD>5</TD>
+      <TD>25.73702</TD>
+      <TD>0</TD>
+      <TD>38.12551</TD>
+      <TD/>
+      <TD/>
+      <TD>259.41108763294</TD>
+      <TD>-40.39251148774499</TD>
+      <TD>4FGL J1717.5-4022</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>25.73702</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J171741.7-402420</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.6498316498316503</TD>
+      <TD>14</TD>
+      <TD>126.4119</TD>
+      <TD>29.05506</TD>
+      <TD>84.67941</TD>
+      <TD/>
+      <TD/>
+      <TD>259.42407049427</TD>
+      <TD>-40.405634769582</TD>
+      <TD>4FGL J1717.5-4022</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>126.4119</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J171743.7-402206</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.392045454545455</TD>
+      <TD>20</TD>
+      <TD>52.36134</TD>
+      <TD>41.91208</TD>
+      <TD>49.78068</TD>
+      <TD/>
+      <TD/>
+      <TD>259.43218826649</TD>
+      <TD>-40.368378377116</TD>
+      <TD>4FGL J1717.5-4022</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>52.36134</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J171747.7-402629</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.7832167832167836</TD>
+      <TD>8</TD>
+      <TD>135.086</TD>
+      <TD>62.45708</TD>
+      <TD>117.1937</TD>
+      <TD/>
+      <TD/>
+      <TD>259.44915109617</TD>
+      <TD>-40.441583598816</TD>
+      <TD>4FGL J1717.5-4022</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>135.086</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J171750.7-402355</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.6996336996336996</TD>
+      <TD>10</TD>
+      <TD>35.33818</TD>
+      <TD>8.525088</TD>
+      <TD>6.989233</TD>
+      <TD/>
+      <TD/>
+      <TD>259.46130560248</TD>
+      <TD>-40.398748234217</TD>
+      <TD>4FGL J1717.5-4022</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>35.33818</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J171853.4-404057</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.9721732367490533</TD>
+      <TD>2</TD>
+      <TD>25.9941</TD>
+      <TD>56.56268</TD>
+      <TD>9.478571</TD>
+      <TD/>
+      <TD/>
+      <TD>259.72272540835</TD>
+      <TD>-40.682633748096</TD>
+      <TD>4FGL J1719.0-4038</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>25.9941</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J171903.4-291123</TD>
+      <TD>nan</TD>
+      <TD>CV</TD>
+      <TD>2.291325695581015</TD>
+      <TD>60</TD>
+      <TD>90.3427</TD>
+      <TD>32.600094</TD>
+      <TD>23.27881</TD>
+      <TD/>
+      <TD/>
+      <TD>259.7643160142799</TD>
+      <TD>-29.18988254287</TD>
+      <TD>4FGL J1719.4-2916</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>90.3427</TD>
+      <TD>blue</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J171905.7-290916</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.7149615612063864</TD>
+      <TD>8</TD>
+      <TD>162.7673</TD>
+      <TD>34.13459</TD>
+      <TD>42.42979</TD>
+      <TD/>
+      <TD/>
+      <TD>259.774153316</TD>
+      <TD>-29.154485612858995</TD>
+      <TD>4FGL J1719.4-2916</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>162.7673</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J172835.4-354950</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>4.565537555228276</TD>
+      <TD>36</TD>
+      <TD>47.88474</TD>
+      <TD>22.311348</TD>
+      <TD>18.29658</TD>
+      <TD/>
+      <TD/>
+      <TD>262.1475351084301</TD>
+      <TD>-35.830658635397</TD>
+      <TD>4FGL J1728.0-3550</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>47.88474</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173728.5-333133</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.3383838383838385</TD>
+      <TD>2</TD>
+      <TD>62.2091</TD>
+      <TD>0</TD>
+      <TD>13.4216</TD>
+      <TD/>
+      <TD/>
+      <TD>264.36885059707</TD>
+      <TD>-33.525955635269</TD>
+      <TD>4FGL J1737.3-3332</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>62.2091</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173909.2-343855</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.700508893031694</TD>
+      <TD>2</TD>
+      <TD>18.47696</TD>
+      <TD>39.242188</TD>
+      <TD>14.92806</TD>
+      <TD/>
+      <TD/>
+      <TD>264.78872377835</TD>
+      <TD>-34.648640234968994</TD>
+      <TD>4FGL J1739.1-3446</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>18.47696</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173909.7-292452</TD>
+      <TD>2CXO J173909.5-292449</TD>
+      <TD>NS</TD>
+      <TD>1.4363143631436315</TD>
+      <TD>3</TD>
+      <TD>47.13755</TD>
+      <TD>18.7133</TD>
+      <TD>5.352012</TD>
+      <TD/>
+      <TD/>
+      <TD>264.7905313937362</TD>
+      <TD>-29.41450990789849</TD>
+      <TD>4FGL J1739.5-2929</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>47.13755</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173913.4-292350</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>4.400510204081633</TD>
+      <TD>288</TD>
+      <TD>35.73078</TD>
+      <TD>64.31992</TD>
+      <TD>32.17377</TD>
+      <TD/>
+      <TD/>
+      <TD>264.80616392952</TD>
+      <TD>-29.39748499886</TD>
+      <TD>4FGL J1739.5-2929</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>35.73078</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173923.0-292441</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.471012874086747</TD>
+      <TD>4</TD>
+      <TD>50.59921</TD>
+      <TD>60.62684</TD>
+      <TD>32.59437</TD>
+      <TD/>
+      <TD/>
+      <TD>264.8460050064635</TD>
+      <TD>-29.41151267270536</TD>
+      <TD>4FGL J1739.5-2929</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>50.59921</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173926.1-292328</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>2.3576768257619327</TD>
+      <TD>53</TD>
+      <TD>11.93654</TD>
+      <TD>25.158484</TD>
+      <TD>10.69506</TD>
+      <TD/>
+      <TD/>
+      <TD>264.85903694468</TD>
+      <TD>-29.391340665125004</TD>
+      <TD>4FGL J1739.5-2929</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>11.93654</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173926.7-343918</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.7991004497751126</TD>
+      <TD>1</TD>
+      <TD>6.680609</TD>
+      <TD>38.2425</TD>
+      <TD>4.856772</TD>
+      <TD/>
+      <TD/>
+      <TD>264.86127642664</TD>
+      <TD>-34.655092015433</TD>
+      <TD>4FGL J1739.1-3446</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>6.680609</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173932.8-293545</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>2.883762200532387</TD>
+      <TD>127</TD>
+      <TD>14.2711</TD>
+      <TD>42.136</TD>
+      <TD>4.645144</TD>
+      <TD/>
+      <TD/>
+      <TD>264.8867290229799</TD>
+      <TD>-29.595913728025</TD>
+      <TD>4FGL J1739.5-2929</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>14.2711</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173938.4-283348</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>1.8832923717242516</TD>
+      <TD>11</TD>
+      <TD>22.34962</TD>
+      <TD>13.673376</TD>
+      <TD>14.48893</TD>
+      <TD/>
+      <TD/>
+      <TD>264.91004638045</TD>
+      <TD>-28.563579714918</TD>
+      <TD>4FGL J1739.7-2836</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>22.34962</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173942.8-283300</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>2.4609245094778855</TD>
+      <TD>8</TD>
+      <TD>256.8584</TD>
+      <TD>50.65156</TD>
+      <TD>229.6151</TD>
+      <TD/>
+      <TD/>
+      <TD>264.92846317659</TD>
+      <TD>-28.550140843778</TD>
+      <TD>4FGL J1739.7-2836</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>256.8584</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173947.5-283428</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>2.6673405211141117</TD>
+      <TD>18</TD>
+      <TD>117.4763</TD>
+      <TD>33.732212</TD>
+      <TD>99.56268</TD>
+      <TD/>
+      <TD/>
+      <TD>264.94809122294</TD>
+      <TD>-28.574659897333</TD>
+      <TD>4FGL J1739.7-2836</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>117.4763</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173952.7-283433</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>3.3220720720720744</TD>
+      <TD>4</TD>
+      <TD>908.6454</TD>
+      <TD>17.189928</TD>
+      <TD>474.6985</TD>
+      <TD/>
+      <TD/>
+      <TD>264.96966826203</TD>
+      <TD>-28.576013909386</TD>
+      <TD>4FGL J1739.7-2836</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>908.6454</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173952.7-283508</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.906707524685054</TD>
+      <TD>7</TD>
+      <TD>212.5149</TD>
+      <TD>0</TD>
+      <TD>318.6033</TD>
+      <TD/>
+      <TD/>
+      <TD>264.96976218614</TD>
+      <TD>-28.58559126812</TD>
+      <TD>4FGL J1739.7-2836</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>212.5149</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J173952.7-283822</TD>
+      <TD>nan</TD>
+      <TD>CV</TD>
+      <TD>1.4687882496940026</TD>
+      <TD>17</TD>
+      <TD>37.40011</TD>
+      <TD>26.006409</TD>
+      <TD>30.21672</TD>
+      <TD/>
+      <TD/>
+      <TD>264.9699032095</TD>
+      <TD>-28.639668431005</TD>
+      <TD>4FGL J1739.7-2836</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>37.40011</TD>
+      <TD>blue</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174447.3-290536</TD>
+      <TD>2CXO J174447.1-290538</TD>
+      <TD>NS</TD>
+      <TD>0.7803437730675951</TD>
+      <TD>1</TD>
+      <TD>95.73743</TD>
+      <TD>0</TD>
+      <TD>10.41303</TD>
+      <TD>YSO</TD>
+      <TD>1.8724253715223376</TD>
+      <TD>266.1971336980471</TD>
+      <TD>-29.09337701969589</TD>
+      <TD>4FGL J1744.9-2905</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>95.73743</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174448.3-290502</TD>
+      <TD>2CXO J174448.3-290503</TD>
+      <TD>NS</TD>
+      <TD>0.9756626375413303</TD>
+      <TD>1</TD>
+      <TD>69.40506</TD>
+      <TD>6.513272</TD>
+      <TD>7.021542</TD>
+      <TD>CV</TD>
+      <TD>0.9024465571659966</TD>
+      <TD>266.201538037931</TD>
+      <TD>-29.08407198917784</TD>
+      <TD>4FGL J1744.9-2905</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>69.40506</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174455.2-290417</TD>
+      <TD>2CXO J174455.2-290417</TD>
+      <TD>NS</TD>
+      <TD>1.0275935921426949</TD>
+      <TD>1</TD>
+      <TD>93.55517</TD>
+      <TD>8.486716</TD>
+      <TD>7.103508</TD>
+      <TD>NS</TD>
+      <TD>1.2552178112969312</TD>
+      <TD>266.2302582193861</TD>
+      <TD>-29.07153771346387</TD>
+      <TD>4FGL J1744.9-2905</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>93.55517</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174457.4-290611</TD>
+      <TD>2CXO J174457.4-290613</TD>
+      <TD>NS</TD>
+      <TD>0.8157894736842103</TD>
+      <TD>1</TD>
+      <TD>48.46756</TD>
+      <TD>8.857952</TD>
+      <TD>19.35583</TD>
+      <TD>NS</TD>
+      <TD>1.0063135052442145</TD>
+      <TD>266.2393013041389</TD>
+      <TD>-29.103135023622983</TD>
+      <TD>4FGL J1744.9-2905</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>48.46756</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174457.8-290508</TD>
+      <TD>2CXO J174457.8-290509</TD>
+      <TD>NS</TD>
+      <TD>1.208532237597438</TD>
+      <TD>1</TD>
+      <TD>270.5417</TD>
+      <TD>8.525292</TD>
+      <TD>10.48603</TD>
+      <TD>NS</TD>
+      <TD>2.53200334619477</TD>
+      <TD>266.24111118136653</TD>
+      <TD>-29.08571572268936</TD>
+      <TD>4FGL J1744.9-2905</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>270.5417</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174459.1-290436</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>1.8604854772692443</TD>
+      <TD>14</TD>
+      <TD>6.566854</TD>
+      <TD>22.308151</TD>
+      <TD>5.246109</TD>
+      <TD/>
+      <TD/>
+      <TD>266.24640766296</TD>
+      <TD>-29.076691190163</TD>
+      <TD>4FGL J1744.9-2905</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>6.566854</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174459.8-290420</TD>
+      <TD>2CXO J174459.9-290421</TD>
+      <TD>NS</TD>
+      <TD>0.8510638297872339</TD>
+      <TD>1</TD>
+      <TD>26.94618</TD>
+      <TD>18.72377</TD>
+      <TD>10.45596</TD>
+      <TD>NS</TD>
+      <TD>0.6975768489532911</TD>
+      <TD>266.24944048936464</TD>
+      <TD>-29.072318910722224</TD>
+      <TD>4FGL J1744.9-2905</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>26.94618</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174500.6-290321</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.087912087912088</TD>
+      <TD>2</TD>
+      <TD>23.60464</TD>
+      <TD>9.557724</TD>
+      <TD>9.0618</TD>
+      <TD/>
+      <TD/>
+      <TD>266.25267444336</TD>
+      <TD>-29.055887385488</TD>
+      <TD>4FGL J1744.9-2905</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>23.60464</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174506.8-290415</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>3.2513877874702612</TD>
+      <TD>9</TD>
+      <TD>29.70837</TD>
+      <TD>22.48818</TD>
+      <TD>15.39377</TD>
+      <TD/>
+      <TD/>
+      <TD>266.27853493047</TD>
+      <TD>-29.070842542623</TD>
+      <TD>4FGL J1744.9-2905</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>29.70837</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174507.0-290355</TD>
+      <TD>2CXO J174507.0-290357</TD>
+      <TD>NS</TD>
+      <TD>1.4705882352941182</TD>
+      <TD>1</TD>
+      <TD>55.86228</TD>
+      <TD>0</TD>
+      <TD>8.021324</TD>
+      <TD>NS</TD>
+      <TD>2.3500009214918345</TD>
+      <TD>266.2793588927146</TD>
+      <TD>-29.065429448251408</TD>
+      <TD>4FGL J1744.9-2905</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>55.86228</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174751.9-300342</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.5510204081632657</TD>
+      <TD>3</TD>
+      <TD>84.0725</TD>
+      <TD>18.139185</TD>
+      <TD>32.50471</TD>
+      <TD/>
+      <TD/>
+      <TD>266.96633592402</TD>
+      <TD>-30.061925065297</TD>
+      <TD>4FGL J1747.8-3006</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>84.0725</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174756.1-300355</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>2.0833333333333353</TD>
+      <TD>10</TD>
+      <TD>11.01099</TD>
+      <TD>11.831436</TD>
+      <TD>6.587851</TD>
+      <TD/>
+      <TD/>
+      <TD>266.98409983008</TD>
+      <TD>-30.065462025217</TD>
+      <TD>4FGL J1747.8-3006</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>11.01099</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J174758.5-300444</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>3.315190499752598</TD>
+      <TD>13</TD>
+      <TD>104.8465</TD>
+      <TD>56.18716</TD>
+      <TD>72.0491</TD>
+      <TD/>
+      <TD/>
+      <TD>266.99405344166</TD>
+      <TD>-30.078976011537</TD>
+      <TD>4FGL J1747.8-3006</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>104.8465</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175017.3-302647</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.5151515151515156</TD>
+      <TD>7</TD>
+      <TD>12.16733</TD>
+      <TD>60.7414</TD>
+      <TD>8.646255</TD>
+      <TD/>
+      <TD/>
+      <TD>267.57240447235</TD>
+      <TD>-30.44664362795</TD>
+      <TD>4FGL J1750.4-3023</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>12.16733</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175017.9-302328</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>0.5762299891040156</TD>
+      <TD>8</TD>
+      <TD>21.56553</TD>
+      <TD>9.107576</TD>
+      <TD>6.291838</TD>
+      <TD/>
+      <TD/>
+      <TD>267.5748059054</TD>
+      <TD>-30.391322485368</TD>
+      <TD>4FGL J1750.4-3023</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>21.56553</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175019.8-302547</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>2.926587301587303</TD>
+      <TD>318</TD>
+      <TD>7.010637</TD>
+      <TD>45.60416</TD>
+      <TD>6.214944</TD>
+      <TD/>
+      <TD/>
+      <TD>267.58280642270995</TD>
+      <TD>-30.429920685921</TD>
+      <TD>4FGL J1750.4-3023</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>7.010637</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175032.0-302708</TD>
+      <TD>nan</TD>
+      <TD>NS_BIN</TD>
+      <TD>0.40962621607782895</TD>
+      <TD>13</TD>
+      <TD>35.32143</TD>
+      <TD>41.41248</TD>
+      <TD>13.1236</TD>
+      <TD/>
+      <TD/>
+      <TD>267.63343754811</TD>
+      <TD>-30.452458937235</TD>
+      <TD>4FGL J1750.4-3023</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>35.32143</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175050.6-310345</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.511794475258616</TD>
+      <TD>5</TD>
+      <TD>125.8514</TD>
+      <TD>50.28572</TD>
+      <TD>111.4367</TD>
+      <TD/>
+      <TD/>
+      <TD>267.71095428122</TD>
+      <TD>-31.062511623850003</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>125.8514</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175052.2-310301</TD>
+      <TD>2CXO J175052.1-310259</TD>
+      <TD>NS</TD>
+      <TD>2.436513383665065</TD>
+      <TD>3</TD>
+      <TD>335.2574</TD>
+      <TD>26.191853</TD>
+      <TD>163.0005</TD>
+      <TD/>
+      <TD/>
+      <TD>267.71762151735</TD>
+      <TD>-31.050338005259</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>335.2574</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175058.7-310328</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>3.147042864894194</TD>
+      <TD>6</TD>
+      <TD>35.76368</TD>
+      <TD>66.22564</TD>
+      <TD>23.23059</TD>
+      <TD/>
+      <TD/>
+      <TD>267.74466486958</TD>
+      <TD>-31.058021223973</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>35.76368</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175101.7-305939</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>1.2744986971791095</TD>
+      <TD>38</TD>
+      <TD>28.01804</TD>
+      <TD>27.685808</TD>
+      <TD>18.58327</TD>
+      <TD/>
+      <TD/>
+      <TD>267.7574019218</TD>
+      <TD>-30.994401764905003</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>28.01804</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175106.7-310630</TD>
+      <TD>nan</TD>
+      <TD>CV</TD>
+      <TD>3.1828703703703707</TD>
+      <TD>61</TD>
+      <TD>18.63188</TD>
+      <TD>57.78252</TD>
+      <TD>14.67574</TD>
+      <TD/>
+      <TD/>
+      <TD>267.77809271401</TD>
+      <TD>-31.108410333237</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>18.63188</TD>
+      <TD>blue</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175106.9-310821</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.923714759535655</TD>
+      <TD>23</TD>
+      <TD>54.54717</TD>
+      <TD>45.79812</TD>
+      <TD>45.59725</TD>
+      <TD/>
+      <TD/>
+      <TD>267.77907648883</TD>
+      <TD>-31.139181265535</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>54.54717</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175107.2-310321</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.9489247311827957</TD>
+      <TD>10</TD>
+      <TD>95.98396</TD>
+      <TD>53.52904</TD>
+      <TD>73.73141</TD>
+      <TD/>
+      <TD/>
+      <TD>267.78033620267</TD>
+      <TD>-31.055935628042</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>95.98396</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175107.9-310355</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.3218390804597704</TD>
+      <TD>25</TD>
+      <TD>24.27218</TD>
+      <TD>36.65623</TD>
+      <TD>18.69632</TD>
+      <TD/>
+      <TD/>
+      <TD>267.78294067749</TD>
+      <TD>-31.065408662055</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>24.27218</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175109.6-305831</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>2.74822695035461</TD>
+      <TD>1</TD>
+      <TD>9865.689</TD>
+      <TD>31.165548</TD>
+      <TD>7923.472</TD>
+      <TD/>
+      <TD/>
+      <TD>267.79018161039</TD>
+      <TD>-30.975294032589005</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>9865.689</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175110.0-305937</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.9318405248125843</TD>
+      <TD>1</TD>
+      <TD>127.526</TD>
+      <TD>0</TD>
+      <TD>7467.577</TD>
+      <TD/>
+      <TD/>
+      <TD>267.7918080327</TD>
+      <TD>-30.993864125042</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>127.526</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175114.2-310311</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>1.4829142488716966</TD>
+      <TD>43</TD>
+      <TD>30.79169</TD>
+      <TD>25.95738</TD>
+      <TD>16.10902</TD>
+      <TD/>
+      <TD/>
+      <TD>267.80940786583</TD>
+      <TD>-31.053248278097</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>30.79169</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175116.8-305738</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>4.748516088722274</TD>
+      <TD>5</TD>
+      <TD>3638.689</TD>
+      <TD>60.9632</TD>
+      <TD>3091.507</TD>
+      <TD/>
+      <TD/>
+      <TD>267.82009937146</TD>
+      <TD>-30.96068175807</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>3638.689</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175118.9-305946</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>3.6585690338716983</TD>
+      <TD>655</TD>
+      <TD>43.62844</TD>
+      <TD>61.43428</TD>
+      <TD>39.10015</TD>
+      <TD/>
+      <TD/>
+      <TD>267.82889893441</TD>
+      <TD>-30.996184474469</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>43.62844</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175121.4-305745</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.9896091044037609</TD>
+      <TD>4</TD>
+      <TD>64.09598</TD>
+      <TD>0</TD>
+      <TD>9.549187</TD>
+      <TD/>
+      <TD/>
+      <TD>267.83953900595003</TD>
+      <TD>-30.962685452734004</TD>
+      <TD>4FGL J1750.8-3106</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>64.09598</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175131.4-300124</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>1.551246537396122</TD>
+      <TD>34</TD>
+      <TD>16.14632</TD>
+      <TD>23.78682</TD>
+      <TD>5.332726</TD>
+      <TD/>
+      <TD/>
+      <TD>267.88124315783</TD>
+      <TD>-30.023423401235</TD>
+      <TD>4FGL J1751.6-3002</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>16.14632</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175132.6-300213</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.149425287356322</TD>
+      <TD>4</TD>
+      <TD>123.6183</TD>
+      <TD>0</TD>
+      <TD>6.326569</TD>
+      <TD/>
+      <TD/>
+      <TD>267.88583531861</TD>
+      <TD>-30.036990984662005</TD>
+      <TD>4FGL J1751.6-3002</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>123.6183</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175138.4-295949</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.9031098687166192</TD>
+      <TD>15</TD>
+      <TD>28.35151</TD>
+      <TD>8.73906</TD>
+      <TD>6.905771</TD>
+      <TD/>
+      <TD/>
+      <TD>267.91037972611</TD>
+      <TD>-29.997190903458</TD>
+      <TD>4FGL J1751.6-3002</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>28.35151</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175150.9-295352</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.6377333770062241</TD>
+      <TD>6</TD>
+      <TD>8.058393</TD>
+      <TD>75.7062</TD>
+      <TD>5.136351</TD>
+      <TD/>
+      <TD/>
+      <TD>267.96240962944</TD>
+      <TD>-29.897997338162</TD>
+      <TD>4FGL J1751.6-3002</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.058393</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J175954.3-235537</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>4.381443298969076</TD>
+      <TD>19</TD>
+      <TD>11.02687</TD>
+      <TD>41.82332</TD>
+      <TD>8.521873</TD>
+      <TD/>
+      <TD/>
+      <TD>269.97643222716</TD>
+      <TD>-23.926957143613</TD>
+      <TD>4FGL J1759.7-2354</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>11.02687</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180046.2-240753</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>1.4208909370199698</TD>
+      <TD>5</TD>
+      <TD>517.66</TD>
+      <TD>12.535452</TD>
+      <TD>184.8011</TD>
+      <TD/>
+      <TD/>
+      <TD>270.19260200591</TD>
+      <TD>-24.131635490740003</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>517.66</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180047.1-240906</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.471886959081543</TD>
+      <TD>1</TD>
+      <TD>138.3897</TD>
+      <TD>0</TD>
+      <TD>26.67133</TD>
+      <TD/>
+      <TD/>
+      <TD>270.19657583685</TD>
+      <TD>-24.151886871342</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>138.3897</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180050.4-240917</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.6931702344546382</TD>
+      <TD>1</TD>
+      <TD>1023.455</TD>
+      <TD>20.738176</TD>
+      <TD>453.4758</TD>
+      <TD/>
+      <TD/>
+      <TD>270.21017384081</TD>
+      <TD>-24.154889139424</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1023.455</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180053.8-240912</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.508828250401284</TD>
+      <TD>1</TD>
+      <TD>237</TD>
+      <TD>0</TD>
+      <TD>396.8861</TD>
+      <TD/>
+      <TD/>
+      <TD>270.22433670959</TD>
+      <TD>-24.153470960146</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>237</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180053.9-240653</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.3576281369875687</TD>
+      <TD>2</TD>
+      <TD>204.2234</TD>
+      <TD>0</TD>
+      <TD>1658.328</TD>
+      <TD/>
+      <TD/>
+      <TD>270.22465242359</TD>
+      <TD>-24.114961020289</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>204.2234</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180054.5-240830</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.8319649698960044</TD>
+      <TD>3</TD>
+      <TD>112.2679</TD>
+      <TD>0</TD>
+      <TD>35.4545</TD>
+      <TD/>
+      <TD/>
+      <TD>270.22713174346</TD>
+      <TD>-24.141815304173</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>112.2679</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180055.4-240915</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>2.3085585585585586</TD>
+      <TD>4</TD>
+      <TD>147.0653</TD>
+      <TD>0</TD>
+      <TD>24.10022</TD>
+      <TD/>
+      <TD/>
+      <TD>270.23116739849</TD>
+      <TD>-24.154248884154</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>147.0653</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180055.7-240520</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>11.289364230540713</TD>
+      <TD>2</TD>
+      <TD>7316.13</TD>
+      <TD>52.50448</TD>
+      <TD>4764.099</TD>
+      <TD/>
+      <TD/>
+      <TD>270.2324866141</TD>
+      <TD>-24.089114768914005</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>7316.13</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180055.7-240748</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>1.487414187643022</TD>
+      <TD>3</TD>
+      <TD>70.73673</TD>
+      <TD>0</TD>
+      <TD>123.5105</TD>
+      <TD/>
+      <TD/>
+      <TD>270.23210797606</TD>
+      <TD>-24.130237917646</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>70.73673</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180055.8-240713</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>5.61224489795919</TD>
+      <TD>3</TD>
+      <TD>4005.704</TD>
+      <TD>43.7776</TD>
+      <TD>1771.955</TD>
+      <TD/>
+      <TD/>
+      <TD>270.23278130194</TD>
+      <TD>-24.120528642174</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>4005.704</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180057.4-240514</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.4336204475236405</TD>
+      <TD>2</TD>
+      <TD>91.27681</TD>
+      <TD>7.706276</TD>
+      <TD>36.24702</TD>
+      <TD/>
+      <TD/>
+      <TD>270.23933718171</TD>
+      <TD>-24.087439423304005</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>91.27681</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180058.1-240705</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.3077642240227951</TD>
+      <TD>2</TD>
+      <TD>86.86944</TD>
+      <TD>0</TD>
+      <TD>19.92013</TD>
+      <TD/>
+      <TD/>
+      <TD>270.24238419726</TD>
+      <TD>-24.118308099012005</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>86.86944</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180058.1-240800</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>4.04440919904838</TD>
+      <TD>3</TD>
+      <TD>367.6146</TD>
+      <TD>11.156148</TD>
+      <TD>221.5043</TD>
+      <TD/>
+      <TD/>
+      <TD>270.24238775157994</TD>
+      <TD>-24.133462366254</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>367.6146</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180058.8-240928</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>3.047960555804572</TD>
+      <TD>4</TD>
+      <TD>882.196</TD>
+      <TD>18.929432</TD>
+      <TD>367.4899</TD>
+      <TD/>
+      <TD/>
+      <TD>270.2451121238</TD>
+      <TD>-24.158034828724</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>882.196</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180059.7-240547</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.3190470392467235</TD>
+      <TD>1</TD>
+      <TD>419.0925</TD>
+      <TD>13.038732</TD>
+      <TD>205.0867</TD>
+      <TD/>
+      <TD/>
+      <TD>270.24907862601</TD>
+      <TD>-24.096655988731005</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>419.0925</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180102.2-240551</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>2.8532608695652177</TD>
+      <TD>3</TD>
+      <TD>396.1607</TD>
+      <TD>0</TD>
+      <TD>108.1909</TD>
+      <TD/>
+      <TD/>
+      <TD>270.25940100166</TD>
+      <TD>-24.097738079043</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>396.1607</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180102.2-240932</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.498915678020156</TD>
+      <TD>1</TD>
+      <TD>259.2424</TD>
+      <TD>0</TD>
+      <TD>146.0972</TD>
+      <TD/>
+      <TD/>
+      <TD>270.2591939851</TD>
+      <TD>-24.15909747074</TD>
+      <TD>4FGL J1800.9-2407</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>259.2424</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180139.0-232505</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>11.29251700680272</TD>
+      <TD>15</TD>
+      <TD>55.24768</TD>
+      <TD>53.222</TD>
+      <TD>46.25299</TD>
+      <TD/>
+      <TD/>
+      <TD>270.41270863349</TD>
+      <TD>-23.418099042959</TD>
+      <TD>4FGL J1801.6-2326</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>55.24768</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J180616.5-212511</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>1.100513573000734</TD>
+      <TD>3</TD>
+      <TD>1237.608</TD>
+      <TD>21.410646</TD>
+      <TD>607.3219</TD>
+      <TD/>
+      <TD/>
+      <TD>271.56901786518944</TD>
+      <TD>-21.41974910709504</TD>
+      <TD>4FGL J1806.2-2126</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1237.608</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181559.8-141412</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.4307816918144745</TD>
+      <TD>2</TD>
+      <TD>8.802162</TD>
+      <TD>0</TD>
+      <TD>45.89497</TD>
+      <TD/>
+      <TD/>
+      <TD>273.99943807318</TD>
+      <TD>-14.236682153791998</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>8.802162</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181559.9-141534</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>3.047728579643475</TD>
+      <TD>3</TD>
+      <TD>496.3681</TD>
+      <TD>18.196156</TD>
+      <TD>315.8516</TD>
+      <TD/>
+      <TD/>
+      <TD>273.99988624147</TD>
+      <TD>-14.259674440086</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>496.3681</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181600.0-141333</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.8814432989690728</TD>
+      <TD>1</TD>
+      <TD>46.78584</TD>
+      <TD>0</TD>
+      <TD>766.9429</TD>
+      <TD/>
+      <TD/>
+      <TD>274.0002503458799</TD>
+      <TD>-14.225849870822</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>46.78584</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181600.0-141457</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>1.6859852476290837</TD>
+      <TD>2</TD>
+      <TD>19.58454</TD>
+      <TD>0</TD>
+      <TD>17.73253</TD>
+      <TD/>
+      <TD/>
+      <TD>274.00038530043</TD>
+      <TD>-14.249221997863</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>19.58454</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181600.1-141430</TD>
+      <TD>nan</TD>
+      <TD>HMXB</TD>
+      <TD>0.8736559139784947</TD>
+      <TD>2</TD>
+      <TD>590.7124</TD>
+      <TD>20.782543</TD>
+      <TD>406.1484</TD>
+      <TD/>
+      <TD/>
+      <TD>274.00053267938</TD>
+      <TD>-14.241898138564</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>590.7124</TD>
+      <TD>peru</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181600.3-141212</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.1899313501144169</TD>
+      <TD>1</TD>
+      <TD>47.4873</TD>
+      <TD>0</TD>
+      <TD>14.56242</TD>
+      <TD/>
+      <TD/>
+      <TD>274.00151913959</TD>
+      <TD>-14.203344521472</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>47.4873</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181600.6-141302</TD>
+      <TD>nan</TD>
+      <TD>HMXB</TD>
+      <TD>1.2631578947368438</TD>
+      <TD>3</TD>
+      <TD>1335.611</TD>
+      <TD>50.12056</TD>
+      <TD>796.3333</TD>
+      <TD/>
+      <TD/>
+      <TD>274.00250151886</TD>
+      <TD>-14.217490402476</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1335.611</TD>
+      <TD>peru</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181601.3-141455</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.8523592085235923</TD>
+      <TD>2</TD>
+      <TD>12.6225</TD>
+      <TD>0</TD>
+      <TD>6.21621</TD>
+      <TD/>
+      <TD/>
+      <TD>274.00558927513</TD>
+      <TD>-14.248725230503</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>12.6225</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181601.4-141322</TD>
+      <TD>nan</TD>
+      <TD>CV</TD>
+      <TD>2.6315789473684212</TD>
+      <TD>2</TD>
+      <TD>45.00665</TD>
+      <TD>0</TD>
+      <TD>33.90643</TD>
+      <TD/>
+      <TD/>
+      <TD>274.00592784894</TD>
+      <TD>-14.222820725416</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>45.00665</TD>
+      <TD>blue</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181601.6-141356</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.8768173407348672</TD>
+      <TD>2</TD>
+      <TD>44.99393</TD>
+      <TD>0</TD>
+      <TD>343.8588</TD>
+      <TD/>
+      <TD/>
+      <TD>274.00687526858</TD>
+      <TD>-14.23240327443</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>44.99393</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181601.6-141426</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.140873015873016</TD>
+      <TD>2</TD>
+      <TD>670.7755</TD>
+      <TD>24.59592</TD>
+      <TD>377.35</TD>
+      <TD/>
+      <TD/>
+      <TD>274.00672744786</TD>
+      <TD>-14.240589142209</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>670.7755</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181601.7-141240</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.3513513513513513</TD>
+      <TD>2</TD>
+      <TD>1407.109</TD>
+      <TD>47.51304</TD>
+      <TD>1047.583</TD>
+      <TD/>
+      <TD/>
+      <TD>274.00718481282007</TD>
+      <TD>-14.211146716619002</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1407.109</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181601.7-141535</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>1.5037593984962414</TD>
+      <TD>2</TD>
+      <TD>468.1744</TD>
+      <TD>22.223124</TD>
+      <TD>315.0104</TD>
+      <TD/>
+      <TD/>
+      <TD>274.00726175803</TD>
+      <TD>-14.25995604224</TD>
+      <TD>4FGL J1815.8-1416</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>468.1744</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J181808.3-251450</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.39880059970015</TD>
+      <TD>1</TD>
+      <TD>4415.68</TD>
+      <TD>0</TD>
+      <TD>12.0127</TD>
+      <TD/>
+      <TD/>
+      <TD>274.53477364218</TD>
+      <TD>-25.247497195575</TD>
+      <TD>4FGL J1817.7-2517</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>4415.68</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J182017.6-101131</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>1.0770975056689345</TD>
+      <TD>3</TD>
+      <TD>12.22577</TD>
+      <TD>51.378</TD>
+      <TD>10.89109</TD>
+      <TD/>
+      <TD/>
+      <TD>275.07335531758</TD>
+      <TD>-10.192136198662</TD>
+      <TD>4FGL J1820.3-1009</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>12.22577</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J182022.6-101202</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.9977324263038547</TD>
+      <TD>11</TD>
+      <TD>71.38313</TD>
+      <TD>37.008434</TD>
+      <TD>54.1927</TD>
+      <TD/>
+      <TD/>
+      <TD>275.09421748418</TD>
+      <TD>-10.200818134542</TD>
+      <TD>4FGL J1820.3-1009</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>71.38313</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J183042.9-322238</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>1.4784946236559147</TD>
+      <TD>8</TD>
+      <TD>34.89037</TD>
+      <TD>15.494732</TD>
+      <TD>19.76617</TD>
+      <TD/>
+      <TD/>
+      <TD>277.67878642755</TD>
+      <TD>-32.377485012724</TD>
+      <TD>4FGL J1830.7-3219</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>34.89037</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J183059.9-321754</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>3.5627530364372473</TD>
+      <TD>9</TD>
+      <TD>28.90652</TD>
+      <TD>15.955508</TD>
+      <TD>14.27506</TD>
+      <TD/>
+      <TD/>
+      <TD>277.74995348795</TD>
+      <TD>-32.298392341707</TD>
+      <TD>4FGL J1830.7-3219</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>28.90652</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J183112.5-321632</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>7.000000000000005</TD>
+      <TD>7</TD>
+      <TD>56.76853</TD>
+      <TD>14.17348</TD>
+      <TD>10.61891</TD>
+      <TD/>
+      <TD/>
+      <TD>277.80238227818</TD>
+      <TD>-32.275686354311</TD>
+      <TD>4FGL J1830.7-3219</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>56.76853</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J184432.8-030604</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>5.727376861397481</TD>
+      <TD>7</TD>
+      <TD>41.56296</TD>
+      <TD>18.26156</TD>
+      <TD>14.31128</TD>
+      <TD/>
+      <TD/>
+      <TD>281.13707528083</TD>
+      <TD>-3.1012185099996</TD>
+      <TD>4FGL J1844.4-0306</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>41.56296</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J184432.9-030718</TD>
+      <TD>2CXO J184432.8-030717</TD>
+      <TD>NS</TD>
+      <TD>0.3638508441339585</TD>
+      <TD>1</TD>
+      <TD>89.85144</TD>
+      <TD>0</TD>
+      <TD>12.36983</TD>
+      <TD>YSO</TD>
+      <TD>1.6615033466315177</TD>
+      <TD>281.1372363331334</TD>
+      <TD>-3.121898371803567</TD>
+      <TD>4FGL J1844.4-0306</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>89.85144</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J184434.3-030824</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.3839462238038764</TD>
+      <TD>3</TD>
+      <TD>62.64569</TD>
+      <TD>0</TD>
+      <TD>6.274067</TD>
+      <TD/>
+      <TD/>
+      <TD>281.14298903008</TD>
+      <TD>-3.1401567743068</TD>
+      <TD>4FGL J1844.4-0306</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>62.64569</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J184439.8-030549</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>3.194444444444447</TD>
+      <TD>14</TD>
+      <TD>16.74097</TD>
+      <TD>18.234243</TD>
+      <TD>6.182261</TD>
+      <TD/>
+      <TD/>
+      <TD>281.16606588447</TD>
+      <TD>-3.0970709549389</TD>
+      <TD>4FGL J1844.4-0306</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>16.74097</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J184441.9-030551</TD>
+      <TD>2CXO J184441.8-030551</TD>
+      <TD>NS</TD>
+      <TD>1.0371650821089022</TD>
+      <TD>1</TD>
+      <TD>1009.535</TD>
+      <TD>0</TD>
+      <TD>454.2231</TD>
+      <TD>NS</TD>
+      <TD>1.2263425295617214</TD>
+      <TD>281.1746792396734</TD>
+      <TD>-3.097540797633018</TD>
+      <TD>4FGL J1844.4-0306</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1009.535</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J184442.5-030535</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.508960573476704</TD>
+      <TD>2</TD>
+      <TD>395.444</TD>
+      <TD>30.016472</TD>
+      <TD>280.5856</TD>
+      <TD/>
+      <TD/>
+      <TD>281.17722686758</TD>
+      <TD>-3.0932464372169</TD>
+      <TD>4FGL J1844.4-0306</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>395.444</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J184443.1-030521</TD>
+      <TD>2CXO J184443.3-030518</TD>
+      <TD>NS</TD>
+      <TD>1.1042283867492597</TD>
+      <TD>1</TD>
+      <TD>1356.458</TD>
+      <TD>23.388699</TD>
+      <TD>465.4677</TD>
+      <TD>NS</TD>
+      <TD>2.7620110962146263</TD>
+      <TD>281.17999868960976</TD>
+      <TD>-3.089422835758084</TD>
+      <TD>4FGL J1844.4-0306</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>1356.458</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J184446.7-030611</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.9965277777777786</TD>
+      <TD>4</TD>
+      <TD>21.16642</TD>
+      <TD>20.155457</TD>
+      <TD>9.613128</TD>
+      <TD/>
+      <TD/>
+      <TD>281.19484398761</TD>
+      <TD>-3.1032623694279</TD>
+      <TD>4FGL J1844.4-0306</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>21.16642</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J190118.0-220711</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>2.940794879557151</TD>
+      <TD>9</TD>
+      <TD>12.22816</TD>
+      <TD>8.508424</TD>
+      <TD>6.802258</TD>
+      <TD/>
+      <TD/>
+      <TD>285.32502553422</TD>
+      <TD>-22.119733217681</TD>
+      <TD>4FGL J1901.5-2208</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>12.22816</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J190121.0-220518</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>2.014846235418877</TD>
+      <TD>9</TD>
+      <TD>128.731</TD>
+      <TD>55.57056</TD>
+      <TD>85.33272</TD>
+      <TD/>
+      <TD/>
+      <TD>285.33772450185</TD>
+      <TD>-22.088373091998</TD>
+      <TD>4FGL J1901.5-2208</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>128.731</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J190132.3-220520</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>11.378652180296633</TD>
+      <TD>108</TD>
+      <TD>43.09789</TD>
+      <TD>52.31224</TD>
+      <TD>34.46357</TD>
+      <TD/>
+      <TD/>
+      <TD>285.38499967255</TD>
+      <TD>-22.088933052211</TD>
+      <TD>4FGL J1901.5-2208</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>43.09789</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J190657.6+071239</TD>
+      <TD>nan</TD>
+      <TD>HMXB</TD>
+      <TD>1.8421052631578958</TD>
+      <TD>9</TD>
+      <TD>26.91024</TD>
+      <TD>32.86761</TD>
+      <TD>12.99852</TD>
+      <TD/>
+      <TD/>
+      <TD>286.74017953356</TD>
+      <TD>7.211070748665401</TD>
+      <TD>4FGL J1906.9+0712</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>26.91024</TD>
+      <TD>peru</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J191232.3+095357</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.5192277259059979</TD>
+      <TD>3</TD>
+      <TD>245.4769</TD>
+      <TD>44.76228</TD>
+      <TD>169.3978</TD>
+      <TD/>
+      <TD/>
+      <TD>288.13494789950005</TD>
+      <TD>9.899292799947002</TD>
+      <TD>4FGL J1912.7+0957</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>245.4769</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J191238.6+095948</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.3540766349755116</TD>
+      <TD>2</TD>
+      <TD>217.1231</TD>
+      <TD>33.51406</TD>
+      <TD>138.2294</TD>
+      <TD/>
+      <TD/>
+      <TD>288.16102498095</TD>
+      <TD>9.9969008456911</TD>
+      <TD>4FGL J1912.7+0957</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>217.1231</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J191244.8+100118</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>2.389758179231865</TD>
+      <TD>8</TD>
+      <TD>401.8177</TD>
+      <TD>21.219725</TD>
+      <TD>204.6659</TD>
+      <TD/>
+      <TD/>
+      <TD>288.18680745449007</TD>
+      <TD>10.021940800450002</TD>
+      <TD>4FGL J1912.7+0957</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>401.8177</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J191246.2+100108</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.4652014652014649</TD>
+      <TD>5</TD>
+      <TD>35.4063</TD>
+      <TD>9.73662</TD>
+      <TD>9.401426</TD>
+      <TD/>
+      <TD/>
+      <TD>288.19253872968</TD>
+      <TD>10.018937429508</TD>
+      <TD>4FGL J1912.7+0957</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>35.4063</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J191251.7+095545</TD>
+      <TD>nan</TD>
+      <TD>YSO</TD>
+      <TD>2.4492461764545848</TD>
+      <TD>4</TD>
+      <TD>34.89764</TD>
+      <TD>49.21816</TD>
+      <TD>28.40521</TD>
+      <TD/>
+      <TD/>
+      <TD>288.21557780634</TD>
+      <TD>9.92921754722</TD>
+      <TD>4FGL J1912.7+0957</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>34.89764</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J191252.2+100143</TD>
+      <TD>nan</TD>
+      <TD>LMXB</TD>
+      <TD>1.1134676564156947</TD>
+      <TD>2</TD>
+      <TD>91.37627</TD>
+      <TD>80</TD>
+      <TD>70.80036</TD>
+      <TD/>
+      <TD/>
+      <TD>288.21781778663</TD>
+      <TD>10.028629222046</TD>
+      <TD>4FGL J1912.7+0957</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>91.37627</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J191252.6+100036</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.54320987654321</TD>
+      <TD>5</TD>
+      <TD>54.69292</TD>
+      <TD>0</TD>
+      <TD>37.91964</TD>
+      <TD/>
+      <TD/>
+      <TD>288.21954483126</TD>
+      <TD>10.010025244884</TD>
+      <TD>4FGL J1912.7+0957</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>54.69292</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J191254.3+100100</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.5071202214288584</TD>
+      <TD>1</TD>
+      <TD>65.02917</TD>
+      <TD>23.471935</TD>
+      <TD>57.66758</TD>
+      <TD/>
+      <TD/>
+      <TD>288.22632190213</TD>
+      <TD>10.016729387339</TD>
+      <TD>4FGL J1912.7+0957</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>65.02917</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J214422.1-563743</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>4.044117647058827</TD>
+      <TD>20</TD>
+      <TD>12.22927</TD>
+      <TD>37.475563</TD>
+      <TD>7.940469</TD>
+      <TD/>
+      <TD/>
+      <TD>326.09239495276</TD>
+      <TD>-56.628643520091</TD>
+      <TD>4FGL J2144.7-5640</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>12.22927</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J214425.2-563957</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>9.795918367346937</TD>
+      <TD>2</TD>
+      <TD>18.02719</TD>
+      <TD>13.687396</TD>
+      <TD>5.383298</TD>
+      <TD/>
+      <TD/>
+      <TD>326.1050726294674</TD>
+      <TD>-56.66591055671388</TD>
+      <TD>4FGL J2144.7-5640</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>18.02719</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J220418.4-500611</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>7.094266277939747</TD>
+      <TD>5</TD>
+      <TD>22.4035</TD>
+      <TD>32.671455</TD>
+      <TD>16.0959</TD>
+      <TD/>
+      <TD/>
+      <TD>331.07691548634995</TD>
+      <TD>-50.103147070855</TD>
+      <TD>4FGL J2203.3-5009</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>22.4035</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J220944.3+591903</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.638888888888889</TD>
+      <TD>1</TD>
+      <TD>66.18665</TD>
+      <TD>13.491876</TD>
+      <TD>23.84572</TD>
+      <TD/>
+      <TD/>
+      <TD>332.4349249744114</TD>
+      <TD>59.31752087095055</TD>
+      <TD>4FGL J2210.2+5919</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>66.18665</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J221102.7+591908</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>6.421356421356425</TD>
+      <TD>1</TD>
+      <TD>4932.024</TD>
+      <TD>0</TD>
+      <TD>6.618652</TD>
+      <TD/>
+      <TD/>
+      <TD>332.7613985587495</TD>
+      <TD>59.31894372657752</TD>
+      <TD>4FGL J2210.2+5919</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>4932.024</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J232011.0+610801</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>2.039007092198582</TD>
+      <TD>3</TD>
+      <TD>69.90666</TD>
+      <TD>0</TD>
+      <TD>6.188263</TD>
+      <TD/>
+      <TD/>
+      <TD>350.04586928364</TD>
+      <TD>61.133822990145006</TD>
+      <TD>4FGL J2320.7+6115</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>69.90666</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J232012.8+612019</TD>
+      <TD>nan</TD>
+      <TD>LM-STAR</TD>
+      <TD>1.2615955473098328</TD>
+      <TD>2</TD>
+      <TD>71.34116</TD>
+      <TD>0</TD>
+      <TD>8.21479</TD>
+      <TD/>
+      <TD/>
+      <TD>350.05345998222</TD>
+      <TD>61.338848349215</TD>
+      <TD>4FGL J2320.7+6115</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>71.34116</TD>
+      <TD>yellow</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J232112.7+611227</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.2825643077743927</TD>
+      <TD>3</TD>
+      <TD>67.68938</TD>
+      <TD>9.6546</TD>
+      <TD>16.74618</TD>
+      <TD/>
+      <TD/>
+      <TD>350.30296438984</TD>
+      <TD>61.207698574676</TD>
+      <TD>4FGL J2320.7+6115</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>67.68938</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J234421.1-423444</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.3698987579584594</TD>
+      <TD>2</TD>
+      <TD>29.89315</TD>
+      <TD>18.8613</TD>
+      <TD>6.846199</TD>
+      <TD/>
+      <TD/>
+      <TD>356.088333314</TD>
+      <TD>-42.57907775430001</TD>
+      <TD>4FGL J2344.7-4234</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>29.89315</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J234426.0-423724</TD>
+      <TD>nan</TD>
+      <TD>NS_BIN</TD>
+      <TD>0.07173601147776175</TD>
+      <TD>1</TD>
+      <TD>77.34052</TD>
+      <TD>8.336528</TD>
+      <TD>13.18</TD>
+      <TD/>
+      <TD/>
+      <TD>356.10847092414485</TD>
+      <TD>-42.62353111630184</TD>
+      <TD>4FGL J2344.7-4234</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>77.34052</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J234431.9-423655</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>4.594017094017094</TD>
+      <TD>4</TD>
+      <TD>6.914845</TD>
+      <TD>26.307411</TD>
+      <TD>4.18028</TD>
+      <TD/>
+      <TD/>
+      <TD>356.13296529307</TD>
+      <TD>-42.615457807087</TD>
+      <TD>4FGL J2344.7-4234</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>6.914845</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J234433.4-423047</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>4.67105263157895</TD>
+      <TD>3</TD>
+      <TD>25.02677</TD>
+      <TD>44.64016</TD>
+      <TD>14.32446</TD>
+      <TD/>
+      <TD/>
+      <TD>356.13918097166</TD>
+      <TD>-42.513100210811</TD>
+      <TD>4FGL J2344.7-4234</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>25.02677</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J234442.7-423055</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.0884831460674163</TD>
+      <TD>1</TD>
+      <TD>108.093</TD>
+      <TD>0</TD>
+      <TD>12.68814</TD>
+      <TD/>
+      <TD/>
+      <TD>356.17811218811</TD>
+      <TD>-42.515415301971</TD>
+      <TD>4FGL J2344.7-4234</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>108.093</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J234454.5-423330</TD>
+      <TD>nan</TD>
+      <TD>AGN</TD>
+      <TD>16.326530612244923</TD>
+      <TD>4</TD>
+      <TD>79.37064</TD>
+      <TD>45.1388</TD>
+      <TD>44.00751</TD>
+      <TD/>
+      <TD/>
+      <TD>356.2273301229</TD>
+      <TD>-42.558477025908</TD>
+      <TD>4FGL J2344.7-4234</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>79.37064</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J234455.6-423449</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.484162895927602</TD>
+      <TD>1</TD>
+      <TD>20.07961</TD>
+      <TD>80</TD>
+      <TD>15.70688</TD>
+      <TD/>
+      <TD/>
+      <TD>356.23208204004</TD>
+      <TD>-42.5804736941</TD>
+      <TD>4FGL J2344.7-4234</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>20.07961</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J234457.5-423309</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>0.9458577951728643</TD>
+      <TD>1</TD>
+      <TD>17.47334</TD>
+      <TD>36.681396</TD>
+      <TD>6.201307</TD>
+      <TD/>
+      <TD/>
+      <TD>356.23969976262</TD>
+      <TD>-42.552583891747</TD>
+      <TD>4FGL J2344.7-4234</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>17.47334</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J235635.1+680257</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>1.851095685313734</TD>
+      <TD>1</TD>
+      <TD>254.7202</TD>
+      <TD>0</TD>
+      <TD>22.04291</TD>
+      <TD/>
+      <TD/>
+      <TD>359.14657494896005</TD>
+      <TD>68.04944245742702</TD>
+      <TD>4FGL J2357.7+6802</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>254.7202</TD>
+      <TD>magenta</TD>
+     </TR>
+     <TR>
+      <TD>4XMM J235723.9+675553</TD>
+      <TD>nan</TD>
+      <TD>NS</TD>
+      <TD>2.0657276995305165</TD>
+      <TD>1</TD>
+      <TD>81.37222</TD>
+      <TD>0</TD>
+      <TD>6.889908</TD>
+      <TD/>
+      <TD/>
+      <TD>359.34991751095</TD>
+      <TD>67.931505638959</TD>
+      <TD>4FGL J2357.7+6802</TD>
+      <TD/>
+      <TD>plus</TD>
+      <TD>81.37222</TD>
+      <TD>magenta</TD>
+     </TR>
+    </TABLEDATA>
+   </DATA>
+  </TABLE>
+ </RESOURCE>
+</VOTABLE>
