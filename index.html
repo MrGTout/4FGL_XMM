@@ -1771,18 +1771,14 @@
                     
 
 
-                    aladin = A.aladin("#aladin-lite-div", { survey: "https://mrgtout.github.io/4FGL_XMM/XMM_test", name: "XMM", target: target, fov: fov });
+                    aladin = A.aladin("#aladin-lite-div", { survey: "https://esdchips.esac.esa.int/XMM-Newton/EPIC-RGB/", name: "XMM", target: target, fov: fov });
                     //aladin.toggleFullscreen();
                     
-                    let survey = aladin.createImageSurvey('TEST', "TEST", 'https://mrgtout.github.io/4FGL_XMM/XMM_test', undefined, undefined, {colormap:"viridis"});
-                    aladin.setBaseImageLayer(survey);
+                    // let survey = aladin.createImageSurvey('TEST', "TEST", 'https://mrgtout.github.io/4FGL_XMM/XMM_test', undefined, undefined, {colormap:"viridis"});
+                    // aladin.setBaseImageLayer(survey);
 
-                    // let aladin;
-                    // A.init.then(() => {
-                    //     aladin = A.aladin('#aladin-lite-div', {target: 'galactic center'});
-                    //     let survey = aladin.createImageSurvey('XMM HiPS', "XMM EPIC HiPS", './XMM_test', undefined, undefined, {colormap:"viridis"});
-                    //     aladin.setBaseImageLayer(survey);
-                    // });
+                    aladin.setOverlayImageLayer('https://mrgtout.github.io/4FGL_XMM/XMM_test'); // CDS/P/HGPS/Flux
+                    aladin.getOverlayImageLayer().setAlpha(0.5);
 
                     aladin.setOverlayImageLayer('https://alasky.cds.unistra.fr/pub/10.1051_0004-6361_201732098flux/'); // CDS/P/HGPS/Flux
                     aladin.getOverlayImageLayer().setAlpha(0.5);
