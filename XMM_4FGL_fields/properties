@@ -22,7 +22,7 @@ moc_sky_fraction     = 0.005356
 #obs_regime          = Waveband keyword (Radio Infrared Optical UV X-ray Gamma-ray)
 hips_builder         = Aladin/HipsGen v12.656
 hips_version         = 1.4
-hips_release_date    = 2026-02-25T10:41Z
+hips_release_date    = 2026-03-01T07:28Z
 hips_frame           = equatorial
 hips_order           = 7
 hips_order_min       = 0
@@ -37,9 +37,9 @@ hips_initial_fov     = 0.72
 hips_pixel_scale     = 8.946E-4
 s_pixel_scale        = 0.001111
 dataproduct_type     = image
-hipsgen_date         = 2026-02-25T10:41Z
-hipsgen_params       = id=XMM-EPIC maxThread=10 "pixelCut=0% 100%" in=D:/4FGL_XMM_image out=D:/MySkyMaps/XMM_4FGL_fields mode=add
-hips_creation_date   = 2026-02-25T10:41Z
-hips_estsize         = 2224879
+hipsgen_date         = 2026-03-01T07:28Z
+hipsgen_params       = id=XMM-EPIC maxThread=10 "pixelCut=0.001% 100% log" in=D:/4FGL_XMM_image out=D:/MySkyMaps/XMM_4FGL_fields mode=overlayAdd
+hips_creation_date   = 2026-03-01T07:28Z
+hips_estsize         = 2227343
 hips_nb_tiles        = 4278
-hips_check_code      = png:2204263135 fits:2384138075
+hips_check_code      = png:2747563583 fits:2384138075
